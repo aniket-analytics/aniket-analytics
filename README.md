@@ -1,97 +1,99 @@
-![Aniket Banner](https://raw.githubusercontent.com/aniket-yadav/aniket-yadav/main/assets/banner.png)
-
 <h1 align="center">Hi, I'm Aniket Yadav 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Excel;Turning+Data+Into+Decisions;Remote+Ready+%7C+Quick+Learner+%7C+Collaborative+Mindset&center=true&width=500&height=45"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+SQL+%7C+Excel+%7C+Power+BI;Transforming+data+into+insights+📊;Passionate+learner+and+problem+solver!&center=true&width=500&height=40" />
 </p>
 
 <p align="center">
-  <a href="mailto:andyyadav12@gmail.com"><img src="https://img.shields.io/badge/Gmail-andyyadav12%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aniket-yadav-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aniket_Yadav-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-blue?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="mailto:andyyadav12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aniket-yadav-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-PDF-orange?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=aniket-yadav&style=flat&color=blue" alt="profile views"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 📌 About Me
 
-I’m **Aniket Yadav**, a passionate Data Analyst from Nashik, Maharashtra. I'm currently pursuing a B.Sc. in Computer Science and have hands-on experience working on real-world data through an internship with **Trainity**.
+🎓 I’m Aniket Yadav, a Computer Science graduate passionate about **data analytics, SQL, and dashboards**. I believe in transforming raw data into stories that support smart business decisions.
 
-- 🔍 Focus: Data Cleaning, SQL, Excel Dashboards, BI Tools
-- 🎯 Goal: To support smart business decisions through data
-- 📍 Availability: Remote, Internship & Entry-Level Roles
+🚀 I’ve completed a hands-on virtual internship with **Trainity**, where I worked on real-world datasets from **marketing, hiring, movies, and ad performance**.
+
+🧠 Tools & Skills:
+- SQL, MySQL, PostgreSQL
+- Excel (Advanced), Pivot Tables, Dashboards
+- Power BI, Google Looker Studio
+- Python (Pandas, NumPy, Seaborn)
+- Communication | Teamwork | Problem-Solving
 
 ---
 
-## 🧠 My Skillset
+## 🛠️ Tech Stack
+
+![SQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![Excel](https://img.shields.io/badge/Excel-Data--Driven-informational?style=flat&logo=microsoft-excel&logoColor=white&color=1D6F42)
+![Power BI](https://img.shields.io/badge/Power--BI-Dashboards-yellow?style=flat&logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-EDA-blue?style=flat&logo=python&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Presentations-Clean--Visuals-orange?style=flat&logo=microsoftpowerpoint&logoColor=white)
+
+---
+
+## 📊 Featured Projects
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,mysql,postgresql,looker,github,jupyter" />
+  <img src="https://img.shields.io/badge/Project-Instagram%20Analytics-blue" />
 </p>
 
-### 🔧 Tools & Technologies
-| Category | Skills |
-|---|---|
-| **Languages** | Python (Pandas, NumPy, Seaborn), SQL, MySQL, PostgreSQL |
-| **Visualization** | Power BI, Google Looker Studio, Excel Dashboards |
-| **Analysis** | EDA, Data Cleaning, Statistical Reporting |
-| **Tools** | Jupyter Notebook, GitHub, Microsoft Office |
+📌 **Instagram User Analytics**  
+Analyzed user engagement and behavior with SQL  
+🔗 [View Project](https://docs.google.com/presentation/d/1AWaDyLzmpnATcp0JwRFXljpHR_w-42k_)
 
 ---
 
-## 📊 Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Metrics%20Dashboard-green" />
+</p>
 
-### 🔹 [Instagram User Analytics](https://docs.google.com/presentation/d/1AWaDyLzmpnATcp0JwRFXljpHR_w-42k_/edit)
-**Tools:** SQL, Excel  
-Analyzed user engagement trends using SQL queries. Insights were presented in PowerPoint for decision-making.
+📌 **Operations & Metric Analytics**  
+Generated KPIs and insights using SQL & PowerPoint  
+🔗 [View Project](https://docs.google.com/presentation/d/125Md5U1q_3kQtRHzhhn1DusccPc9mLkw)
 
-### 🔹 [Operations & Metric Dashboard](https://docs.google.com/presentation/d/125Md5U1q_3kQtRHzhhn1DusccPc9mLkw/edit)
-**Tools:** Advanced SQL, Excel  
-Built operational KPIs and performance metrics.
+---
 
-### 🔹 [Hiring Process Dashboard](https://docs.google.com/presentation/d/1O0KVLrNFqhY4pjQpddHvD5SvfjDGu92k/edit)
-**Tools:** Excel, Pivot Tables  
-Analyzed recruitment efficiency and visualized key metrics.
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Ad%20Spend%20ROI-red" />
+</p>
 
-### 🔹 [IMDB Movie Analysis](https://docs.google.com/presentation/d/1Y-cSE2R4G9Y-wrigD_rwK3Qh3AZMMuHM/edit)
-**Tools:** Excel, Charts  
-Uncovered movie trends based on genres, durations, and budgets.
-
-### 🔹 [Ad Campaign ROI](https://docs.google.com/presentation/d/1g8_-VbOJQ2eOhkLUHJ1OeqpxuS23pinE/edit)
-**Tools:** Excel, Charts, Pivot Tables  
-Tracked ad performance and calculated profitability metrics.
+📌 **XYZ Ad Campaign ROI Analysis**  
+Excel dashboards to measure ad profitability  
+🔗 [View Project](https://docs.google.com/presentation/d/1g8_-VbOJQ2eOhkLUHJ1OeqpxuS23pinE)
 
 ---
 
 ## 🏅 Certifications
 
-- 📄 [Live Project Certificate – Trainity (2022)](https://drive.google.com/file/d/1TWI5N0Gxvkqcl0gThlMj9ydioDJyR2UE/view?usp=drive_link)
-- 📄 [8 Weeks Data Analytics Training – Trainity (2022)](https://drive.google.com/file/d/1l0XXmxkaKCrzEtacPrtA186qoeF_j3Kq/view?usp=drive_link)
-- 📄 [Virtual Internship Certificate – Trainity (2023)](https://drive.google.com/file/d/1cFkNeGjUXee0olwkvl29s9WYl9V5fr-1/view?usp=drive_link)
-- 📄 [Data Analysis for Entry-Level Jobs – Udemy (2025)](https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing)
+- ✅ Trainity – Live Project Certificate (2022)  
+- ✅ Trainity – Data Analytics Specialization (2022)  
+- ✅ Trainity – Virtual Internship (2023)  
+- ✅ Udemy – Data Analysis for Entry-Level Jobs (2025)
 
 ---
 
-## 📈 GitHub Activity Overview
-
-> ⚙️ Tools used in projects: **SQL, Excel, Power BI, Python, Jupyter Notebook**
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket-yadav&show_icons=true&theme=github_dark&hide_title=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-yadav&layout=compact&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket-yadav&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-yadav&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-📬 **Email:** andyyadav12@gmail.com  
+📩 **Email:** andyyadav12@gmail.com  
 🔗 **LinkedIn:** [Aniket Yadav](https://www.linkedin.com/in/aniket-yadav-/)  
-🌐 **Location:** Nashik, India  
-🎯 *Available for remote roles and data internships.*
+📍 **Location:** Nashik, Maharashtra, India  
+💡 *Open to: Data Analyst Internships, Remote BI Roles, Entry-level Analyst Opportunities*
 
-> _"I don't just analyze data—I tell stories with it."_
 > _"Data is the new oil, and I'm ready to mine it."_
-
 
 ---
