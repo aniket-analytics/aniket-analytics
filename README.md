@@ -34,10 +34,13 @@
 
 ## 📌 Pinned Projects
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniketyadav1208&repo=SQL-Project-Retail-Sales-Analysis.&theme=radical)](https://github.com/aniketyadav1208/SQL-Project-Retail-Sales-Analysis.)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniketyadav1208&repo=Instagram-Analytics&theme=radical)](https://github.com/aniketyadav1208/Instagram-Analytics)
+
+> The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniketyadav1208&repo=Hiring-Dashboard&theme=radical)](https://github.com/aniketyadav1208/Hiring-Dashboard)
 
 ---
-
 ## 🏅 Certifications
 
 | Certification | Year | Link |
