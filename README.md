@@ -18,14 +18,14 @@
 🔍 Skilled in:
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-Reports-blue?style=flat&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-EDA-306998?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-Scientific-blue?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-Dataframe-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-Visualization-5566AA?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-%230072C6?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-%235566AA?style=for-the-badge&logoColor=white"/>
 </p>
 
 🧠 I completed a virtual internship at **Trainity**, where I worked on 5+ real-world data projects in marketing, hiring, and user analytics.
@@ -39,7 +39,7 @@
 | [📈 Instagram User Analytics](https://docs.google.com/presentation/d/1AWaDyLzmpnATcp0JwRFXljpHR_w-42k_/edit?usp=drive_link) | Analyzed Instagram user data to uncover behavior trends. | SQL, Excel, PowerPoint |
 | [📊 Operation & Metric Analytics](https://docs.google.com/presentation/d/125Md5U1q_3kQtRHzhhn1DusccPc9mLkw/edit?usp=drive_link) | Built KPIs from raw operations data to optimize performance. | SQL, Excel |
 | [📋 Hiring Process Dashboard](https://docs.google.com/presentation/d/1O0KVLrNFqhY4pjQpddHvD5SvfjDGu92k/edit?usp=drive_link) | Created a dashboard to visualize the recruitment pipeline. | Excel, Pivot Tables |
-| [🎬 IMDB Movie Analytics](https://docs.google.com/presentation/d/1Y-cSE2R4G9Y-wrigD_rwK3Qh3AZMMuHM/edit?usp=drive_link) | Analyzed film data to find genre patterns and budget trends. | Excel, PowerPoint |
+| [🎬 IMDB Movie Analysis](https://docs.google.com/presentation/d/1Y-cSE2R4G9Y-wrigD_rwK3Qh3AZMMuHM/edit?usp=drive_link) | Analyzed film data to find genre patterns and budget trends. | Excel, PowerPoint |
 | [📺 Ads ROI Analysis](https://docs.google.com/presentation/d/1g8_-VbOJQ2eOhkLUHJ1OeqpxuS23pinE/edit?usp=drive_link) | Tracked campaign spending and calculated brand-level ROI. | Excel, Charts, PowerPoint |
 
 ---
