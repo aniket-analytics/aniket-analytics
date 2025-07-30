@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:andyyadav12@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/aniket-yadav-/"><img src="https://img.shields.io/badge/LinkedIn-Aniket_Yadav‑1208-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=aniketyadav1208&style=flat&color=blue" alt="profile views"/>
+  <a href="mailto:andyyadav12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aniket-yadav-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-PDF-orange?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=aniket-yadav&style=flat&color=blue" alt="profile views"/>
 </p>
-
 <img src="https://github.com/aniketyadav1208/aniketyadav1208/blob/main/assets/banner.gif" alt="Banner" width="100%"/>
 
 ---
