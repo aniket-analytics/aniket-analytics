@@ -65,16 +65,12 @@
   </tr>
 </table>
 
-## 🎮 Contribution Graph Animations
+## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <!-- Pac‑Man Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketyadav1208/aniketyadav1208/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketyadav1208/aniketyadav1208/output/pacman-contribution-graph.svg">
-    <img alt="Pac‑Man Contribution Graph" src="https://raw.githubusercontent.com/aniketyadav1208/aniketyadav1208/output/pacman-contribution-graph.svg" width="80%" />
-  </picture>
-  
+![Snake animation](https://raw.githubusercontent.com/aniketyadav1208/aniketyadav1208/output/snake.svg)
+
+---
+
 ## 🤝 Contact
 
 - 📫 Email: andyyadav12@gmail.com
