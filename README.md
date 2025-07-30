@@ -34,8 +34,7 @@
 
 ## 📌 Pinned Projects
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniketyadav1208&repo=Instagram-Analytics&theme=radical)](https://github.com/aniketyadav1208/Instagram-Analytics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniketyadav1208&repo=Hiring-Dashboard&theme=radical)](https://github.com/aniketyadav1208/Hiring-Dashboard)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniketyadav1208&repo=Instagram-Analytics&theme=radical)](https://github.com/aniketyadav1208/SQL-Project-Retail-Sales-Analysis)
 
 ---
 
