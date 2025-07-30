@@ -23,14 +23,23 @@
 
 ## 🛠️ Tools & Technologies
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" title="Excel"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" height="40" title="PowerPoint"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" title="Windows"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter Notebook"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" title="Power BI"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/google-data-studio.png" height="40" title="Looker Studio"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter Notebook"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" title="Excel"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" title="Power BI"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/google-data-studio.png" height="40" title="Looker Studio"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" title="Seaborn"/>&nbsp;&nbsp;
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="40" title="Matplotlib"/>
 </p>
 
 <p align="center">
