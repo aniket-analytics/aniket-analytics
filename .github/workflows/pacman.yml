@@ -14,4 +14,4 @@ jobs:
         uses: maurodesouza/contribution-graph-action@v2
         with:
           user_name: aniketyadav1208
-          theme: pacman
+          theme: batman
