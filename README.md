@@ -67,6 +67,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="Pac-Man GitHub Activity" />
+</p>
+
 ## 🤝 Contact
 
 - 📫 Email: andyyadav12@gmail.com
