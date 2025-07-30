@@ -34,7 +34,7 @@
 
 ## 📌 Pinned Projects
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniketyadav1208&repo=SQL-Project-Retail-Sales-Analysis&theme=radical)](https://github.com/aniketyadav1208/SQL-Project-Retail-Sales-Analysis)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniketyadav1208&repo=SQL-Project-Retail-Sales-Analysis.&theme=radical)](https://github.com/aniketyadav1208/SQL-Project-Retail-Sales-Analysis.)
 
 ---
 
