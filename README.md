@@ -65,12 +65,11 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake gif" width="100%"/>
-</p>
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/aniketyadav1208/aniketyadav1208/output/snake.svg)
 
 ---
-
 ## 🤝 Contact
 
 - 📫 Email: andyyadav12@gmail.com
