@@ -81,6 +81,6 @@
 
 - 🔍 Looking for **remote data analyst / BI trainee** roles
 - 📫 Email: **andyyadav12@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aniket-yadav-/)
+- 🔗 [Connect with me professionally](https://www.linkedin.com/in/aniket-yadav-/)
 
 > _"Let the data do the talking—I'm here to translate it into decisions."_
