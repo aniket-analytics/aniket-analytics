@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aniket Yadav 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Excel;Problem+Solver+|+Visual+Analyst;Email:+andyyadav12%40gmail.com&center=true&width=600&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+Business+Analyst+%7C+SQL+%7C+Power+BI+%7C+Excel;Problem+Solver;Email:+andyyadav12%40gmail.com&center=true&width=600&height=45" />
 </p>
 
 <p align="center">
