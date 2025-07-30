@@ -65,11 +65,14 @@
   </tr>
 </table>
 
-## 🐍 GitHub Contribution Snake
+## 🕹️ Contribution Graph Animation
 
-![Snake animation](https://raw.githubusercontent.com/aniketyadav1208/aniketyadav1208/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketyadav1208/aniketyadav1208/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketyadav1208/aniketyadav1208/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/aniketyadav1208/aniketyadav1208/output/pacman-contribution-graph.svg">
+</picture>
 
----
 ## 🤝 Contact
 
 - 📫 Email: andyyadav12@gmail.com
