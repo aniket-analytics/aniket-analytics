@@ -9,7 +9,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Resume-PDF-orange?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=aniket-yadav&style=flat&color=blue" alt="profile views"/>
 </p>
-<img src="https://github.com/aniketyadav1208/aniketyadav1208/blob/main/assets/banner.gif" alt="Banner" width="100%"/>
+<img src="https://github.com/aniket-analytics/aniket-analytics/blob/main/assets/banner.gif" alt="Banner" width="100%"/>
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 📌 Pinned Projects
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniketyadav1208&repo=SQL-Project-Retail-Sales-Analysis.&theme=tokyonight)](https://github.com/aniketyadav1208/SQL-Project-Retail-Sales-Analysis.)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=SQL-Project-Retail-Sales-Analysis.&theme=tokyonight)](https://github.com/aniket-analytics/SQL-Project-Retail-Sales-Analysis.)
 
 ---
 ## 🏅 Certifications
@@ -52,22 +52,22 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aniketyadav1208&show_icons=true&theme=tokyonight&count_private=true" height="140" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aniket-analytics&show_icons=true&theme=tokyonight&count_private=true" height="140" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketyadav1208&layout=compact&theme=tokyonight" height="140" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-analytics&layout=compact&theme=tokyonight" height="140" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=aniketyadav1208&theme=radical&hide_border=true" />
+      <img src="https://streak-stats.demolab.com/?user=aniket-analytics&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/aniketyadav1208/aniketyadav1208/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/aniket-analytics/aniket-analytics/output/snake.svg)
 
 ---
 
