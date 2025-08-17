@@ -43,6 +43,7 @@
 | Trainity Live Project | 2022 | [View](https://drive.google.com/file/d/1TWI5N0Gxvkqcl0gThlMj9ydioDJyR2UE/view?usp=drive_link) |
 | Trainity Internship | 2023 | [View](https://drive.google.com/file/d/1cFkNeGjUXee0olwkvl29s9WYl9V5fr-1/view?usp=drive_link) |
 | Data Analysis for Entry-Level Jobs – Udemy | 2025 | [View](https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing) |
+| Power BI for Beginners - Simplilearn | 2025 | [View](https://drive.google.com/file/d/1Ca3PONFygyCi3fkIwajGEeRPl_g8y0FK/view?usp=sharing) |
 
 ---
 
