@@ -34,7 +34,8 @@
 
 ## 📌 Pinned Projects
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=SQL-Projects&theme=tokyonight)](https://github.com/aniket-analytics/SQL-Project-Retail-Sales-Analysis.) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=SQL-Projects&theme=tokyonight)](https://github.com/aniket-analytics/SQL-Projects)
+
 
 ## 🏅 Certifications
 
