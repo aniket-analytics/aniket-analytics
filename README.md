@@ -34,8 +34,9 @@
 
 ## 📌 Pinned Projects
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=SQL-Projects&theme=tokyonight)](https://github.com/aniket-analytics/SQL-Projects)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=Power-BI-Projects&theme=tokyonight)](https://github.com/aniket-analytics/Power-BI-Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=SQL-Projects&theme=tokyonight&cache_seconds=10)](https://github.com/aniket-analytics/SQL-Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=Power-BI-Projects&theme=tokyonight&cache_seconds=10)](https://github.com/aniket-analytics/Power-BI-Projects)
+
 
 
 
