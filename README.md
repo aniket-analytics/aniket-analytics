@@ -5,7 +5,7 @@
 
 🔍 Skilled in:
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/Seaborn-%235566AA?style=for-the-badge&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89788158/188346531-e2a3a7f1-f60c-4be6-88d6-59be5833e2cd.gif" width="400"/>
+</p>
 <p align="center">
   <a href="mailto:andyyadav12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aniket-yadav-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
