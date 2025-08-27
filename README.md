@@ -76,84 +76,52 @@ I'm a Computer Science graduate passionate about turning data into actionable in
 
 ---
 
-## 📊 Featured Projects
+## 📌 Pinned Projects
 
-### 🎬 IMDB Movie Analysis
-**Tech Stack:** Excel, Statistical Analysis  
-- Analyzed 1,000+ movie records to identify trends in genres, budgets, and performance
-- Used pivot tables and statistical functions to uncover patterns in successful movie characteristics
-- Generated data-driven insights for content investment strategies
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=SQL-Projects&theme=tokyonight&cache_seconds=10)](https://github.com/aniket-analytics/SQL-Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=Power-BI-Projects&theme=tokyonight&cache_seconds=10)](https://github.com/aniket-analytics/Power-BI-Projects)
 
-### 📱 Instagram User Analytics
-**Tech Stack:** SQL, Data Visualization  
-- Performed user engagement pattern analysis using SQL queries
-- Identified peak activity periods and user behavior trends
-- Created comprehensive presentation with user retention recommendations
 
-### 💼 Hiring Process Analytics
-**Tech Stack:** Excel, Process Optimization  
-- Analyzed recruitment workflow data to identify process bottlenecks
-- Built automated Excel dashboard with pivot tables for tracking recruitment metrics
-- Proposed data-driven improvements to reduce time-to-hire
 
-### 💰 Ad Spend ROI Analysis
-**Tech Stack:** Excel, Financial Analysis  
-- Evaluated advertising expenditure and ROI across multiple brand campaigns
-- Calculated cost-per-acquisition and lifetime value metrics
-- Identified underperforming campaigns and provided budget reallocation recommendations
 
----
+## 🏅 Certifications
 
-## 🎓 Certifications
-
-- 🏆 **Power BI for Beginners** - Simplilearn (2025)
-- 🏆 **Data Analysis for Entry Level Jobs** - Udemy (2025)
-- 🏆 **Virtual Internship Certificate (Data Analytics)** - Trainity (2023)
-- 🏆 **8 Weeks Data Analytics Specialization Training** - Trainity (2022)
+| Certification | Year | Link |
+|---------------|------|------|
+| Trainity Specialization Training | 2022 | [View](https://drive.google.com/file/d/1l0XXmxkaKCrzEtacPrtA186qoeF_j3Kq/view?usp=sharing_link) |
+| Trainity Virtual Internship | 2023 | [View](https://drive.google.com/file/d/1cFkNeGjUXee0olwkvl29s9WYl9V5fr-1/view?usp=drive_link) |
+| Data Analysis for Entry-Level Jobs – Udemy | 2025 | [View](https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing) |
+| Power BI for Beginners - Simplilearn | 2025 | [View](https://drive.google.com/file/d/1Ca3PONFygyCi3fkIwajGEeRPl_g8y0FK/view?usp=sharing) |
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket-analytics&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-analytics&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=aniket-analytics&show_icons=true&theme=tokyonight&count_private=true" height="140" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-analytics&layout=compact&theme=tokyonight" height="140" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=aniket-analytics&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-analytics&theme=radical&hide_border=true" width="60%" />
-</p>
+## 🐍 GitHub Contribution Snake
 
----
-
-## 🎯 Current Goals
-
-- 📚 **Learning**: Advanced Python libraries for Machine Learning
-- 🔍 **Exploring**: Cloud platforms (AWS, Google Cloud) for data analytics
-- 🚀 **Building**: More complex data analysis projects with real-world datasets
-- 🎯 **Seeking**: Entry-level Data Analyst opportunities to apply my skills
-
----
-
-## 🤝 Let's Connect!
-
-I'm always excited to discuss data analytics, share insights, or collaborate on interesting projects. Feel free to reach out!
-
-<p align="center">
-  <a href="mailto:andyyadav12@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/aniket-yadav-">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+![Snake animation](https://raw.githubusercontent.com/aniket-analytics/aniket-analytics/output/snake.svg)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniket-analytics&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 🤝 Contact
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/aniket-analytics">aniket-analytics</a> - Thanks for visiting! ⭐️</i>
-</p>
+- 📫 Email: andyyadav12@gmail.com
+- 🔗 LinkedIn: [Aniket Yadav](https://www.linkedin.com/in/aniket-yadav-/)
+
+> _“Data isn’t just numbers—it’s insight waiting to happen.”_
