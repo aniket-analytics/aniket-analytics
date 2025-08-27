@@ -3,22 +3,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Business+Analyst;SQL+%7C+Python+%7C+Microsoft+Excel+%7C+Power+BI;Problem+Solver+%7C+Critical+Thinker+%7C+Quick+Learner;Email:+andyyadav12%40gmail.com&center=true&width=600&height=45" />
 </p>
 
-## 🧠 My Skillset
+🔍 Skilled in:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,mysql,postgresql,looker,github,jupyter" />
+<p>
+  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-Reports-blue?style=flat&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-EDA-306998?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-Scientific-blue?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-Dataframe-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-5566AA?style=flat&logoColor=white"/>
 </p>
-
-### 🔧 Tools & Technologies
-| Category | Skills |
-|---|---|
-| **Languages** | Python (Pandas, NumPy, Seaborn), SQL, MySQL, PostgreSQL |
-| **Visualization** | Power BI, Google Looker Studio, Excel Dashboards |
-| **Analysis** | EDA, Data Cleaning, Statistical Reporting |
-| **Tools** | Jupyter Notebook, GitHub, Microsoft Office |
-
----
-
 
 
 <p align="center">
