@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Aniket Yadav 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Business+Analyst;SQL+%7C+Python+%7C+Microsoft+Excel+%7C+Power+BI;Problem+Solver+%7C+Critical+Thinker+%7C+Quick+Learner;Email:+andyyadav12%40gmail.com&center=true&width=600&height=45" />
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/89788158/188346531-e2a3a7f1-f60c-4be6-88d6-59be5833e2cd.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Business+Analyst;SQL+%7C+Python+%7C+Microsoft+Excel+%7C+Power+BI;Problem+Solver+%7C+Critical+Thinker+%7C+Quick+Learner;Email:+andyyadav12%40gmail.com&center=true&width=600&height=45"/>
 </p>
 <p align="center">
   <a href="mailto:andyyadav12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
