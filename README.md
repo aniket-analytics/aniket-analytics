@@ -88,10 +88,10 @@ I'm a Computer Science graduate passionate about turning data into actionable in
 
 | Certification | Year | Link |
 |---------------|------|------|
-| Trainity Specialization Training | 2022 | [View](https://drive.google.com/file/d/1l0XXmxkaKCrzEtacPrtA186qoeF_j3Kq/view?usp=sharing_link) |
-| Trainity Virtual Internship | 2023 | [View](https://drive.google.com/file/d/1cFkNeGjUXee0olwkvl29s9WYl9V5fr-1/view?usp=drive_link) |
-| Data Analysis for Entry-Level Jobs – Udemy | 2025 | [View](https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing) |
 | Power BI for Beginners - Simplilearn | 2025 | [View](https://drive.google.com/file/d/1Ca3PONFygyCi3fkIwajGEeRPl_g8y0FK/view?usp=sharing) |
+| Data Analysis for Entry-Level Jobs – Udemy | 2025 | [View](https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing) |
+| Trainity Virtual Internship | 2023 | [View](https://drive.google.com/file/d/1cFkNeGjUXee0olwkvl29s9WYl9V5fr-1/view?usp=drive_link) |
+| Trainity Specialization Training | 2022 | [View](https://drive.google.com/file/d/1l0XXmxkaKCrzEtacPrtA186qoeF_j3Kq/view?usp=sharing_link) |
 
 ---
 
