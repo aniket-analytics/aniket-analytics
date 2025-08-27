@@ -3,6 +3,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Business+Analyst;SQL+%7C+Python+%7C+Microsoft+Excel+%7C+Power+BI;Problem+Solver+%7C+Critical+Thinker+%7C+Quick+Learner;Email:+andyyadav12%40gmail.com&center=true&width=600&height=45" />
 </p>
 
+## 🧠 My Skillset
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,mysql,postgresql,looker,github,jupyter" />
+</p>
+
+### 🔧 Tools & Technologies
+| Category | Skills |
+|---|---|
+| **Languages** | Python (Pandas, NumPy, Seaborn), SQL, MySQL, PostgreSQL |
+| **Visualization** | Power BI, Google Looker Studio, Excel Dashboards |
+| **Analysis** | EDA, Data Cleaning, Statistical Reporting |
+| **Tools** | Jupyter Notebook, GitHub, Microsoft Office |
+
+---
+
+
+
 <p align="center">
   <a href="mailto:andyyadav12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aniket-yadav-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
