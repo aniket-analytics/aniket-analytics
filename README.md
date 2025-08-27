@@ -104,7 +104,7 @@ I'm a Computer Science graduate passionate about turning data into actionable in
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=aniket-analytics&theme=radical&hide_border=true&date=2025-08-27"/>
+      <img src="https://streak-stats.demolab.com/?user=aniket-analytics&theme=radical&hide_border=true"/>
     </td>
   </tr>
 </table>
