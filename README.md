@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Aniket Yadav 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Business+Analyst;SQL+%7C+Python+%7C+Microsoft+Excel+%7C+Power+BI;Problem+Solver+%7C+Critical+Thinker+%7C+Quick+Learner;Email:+andyyadav12%40gmail.com&center=true&width=600&height=45"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Business+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Problem+Solver+%7C+Critical+Thinker+%7C+Quick+Learner;Email:+andyyadav12%40gmail.com&center=true&width=600&height=45"/>
 </p>
+
 <p align="center">
   <a href="mailto:andyyadav12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aniket-yadav-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1YaulTQIpQhvN3COsmvaxZE0i39eN2bVS/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-orange?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1YaulTQIpQhvN3COsmvaxZE0i39eN2bVS/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=aniket-analytics&style=flat&color=blue" alt="profile views"/>
 </p>
 <img src="https://github.com/aniket-analytics/aniket-analytics/blob/main/assets/banner.gif" alt="Banner" width="100%"/>
@@ -16,11 +17,11 @@
 
 I'm a Computer Science graduate passionate about turning data into actionable insights! Currently building my expertise in data analytics through hands-on projects and continuous learning. I love exploring datasets, uncovering hidden patterns, and creating compelling visualizations that tell meaningful stories.
 
-- 🎓 **Education**: Bachelor of Science in Computer Science (2022-2025)
-- 💼 **Experience**: Data Analytics Virtual Intern at Trainity
-- 🌱 **Currently Learning**: GCP, Hotjar, Google Analytics(GA4), BigQuery, Digital Marketing Basics.
-- 🎯 **Goal**: Landing my first full-time Data Analyst role
-- ⚡ **Fun Fact**: I can spend hours diving deep into data and still get excited about finding new insights!
+- 🎓 **Education**: Bachelor of Science in Computer Science (2022-2025)  
+- 💼 **Experience**: Data Analytics Virtual Intern at Trainity  
+- 🌱 **Currently Learning**: GCP, Hotjar, Google Analytics (GA4), BigQuery, Digital Marketing Basics  
+- 🎯 **Goal**: Landing my first full-time Data Analyst role  
+- ⚡ **Fun Fact**: I enjoy transforming raw data into insights that drive impactful decisions  
 
 ---
 
@@ -64,22 +65,19 @@ I'm a Computer Science graduate passionate about turning data into actionable in
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-**Google Workspace**
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
-</p>
-
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Projects  
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=SQL-Projects&theme=tokyonight&cache_seconds=10)](https://github.com/aniket-analytics/SQL-Projects)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=Power-BI-Projects&theme=tokyonight&cache_seconds=10)](https://github.com/aniket-analytics/Power-BI-Projects)
+- **SQL Projects** 🛢️  
+  Retail Sales Analysis & Library Management database systems. Includes SQL queries for EDA, KPI generation, and business problem-solving.  
+  🔗 [View Repository](https://github.com/aniket-analytics/SQL-Projects)  
 
+- **Power BI Projects** 📊  
+  Interactive dashboards for sales insights, hospital ER analysis, and hiring metrics. Covers DAX, Power Query, and visualization best practices.  
+  🔗 [View Repository](https://github.com/aniket-analytics/Power-BI-Projects)  
 
-
+---
 
 ## 🏅 Certifications
 
@@ -92,14 +90,14 @@ I'm a Computer Science graduate passionate about turning data into actionable in
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td>
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=aniket-analytics&show_icons=true&theme=tokyonight&count_private=true" height="140" />
     </td>
-    <td>
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-analytics&layout=compact&theme=tokyonight" height="140" />
     </td>
   </tr>
@@ -110,15 +108,27 @@ I'm a Computer Science graduate passionate about turning data into actionable in
   </tr>
 </table>
 
-## 🐍 GitHub Contribution Snake
+---
 
-![Snake animation](https://raw.githubusercontent.com/aniket-analytics/aniket-analytics/output/snake.svg)
+## 🐍 GitHub Contribution Snake  
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniket-analytics/aniket-analytics/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniket-analytics/aniket-analytics/output/snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aniket-analytics/aniket-analytics/output/snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <em>If the animation doesn’t load, check it directly 👉 <a href="https://raw.githubusercontent.com/aniket-analytics/aniket-analytics/output/snake.svg">here</a></em>
+</p>
 
 ---
 
 ## 🤝 Contact
 
-- 📫 Email: andyyadav12@gmail.com
-- 🔗 LinkedIn: [Aniket Yadav](https://www.linkedin.com/in/aniket-yadav-/)
+- 📫 Email: andyyadav12@gmail.com  
+- 🔗 LinkedIn: [Aniket Yadav](https://www.linkedin.com/in/aniket-yadav-/)  
 
 > _“Data isn’t just numbers—it’s insight waiting to happen.”_
