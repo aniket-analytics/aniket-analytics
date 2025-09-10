@@ -80,26 +80,6 @@ I'm a Computer Science graduate passionate about turning data into actionable in
 
 ---
 
-### 🛢️ SQL Projects  
-**Retail Sales Analysis & Library Management**  
-🔹 Designed relational databases  
-🔹 Wrote SQL queries for KPIs & EDA  
-🔹 Answered real business questions  
-
-👉 [View Repository](https://github.com/aniket-analytics/SQL-Projects)  
-
----
-
-### 📊 Power BI Projects  
-**Interactive Business Dashboards**  
-🔹 Sales insights & ROI tracking  
-🔹 Hospital ER performance metrics  
-🔹 Hiring process analytics  
-
-👉 [View Repository](https://github.com/aniket-analytics/Power-BI-Projects)  
-
----
-
 ## 🏅 Certifications
 
 | Certification | Year | Link |
