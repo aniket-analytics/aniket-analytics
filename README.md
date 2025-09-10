@@ -69,13 +69,34 @@ I'm a Computer Science graduate passionate about turning data into actionable in
 
 ## 📌 Featured Projects  
 
-- **SQL Projects** 🛢️  
-  Retail Sales Analysis & Library Management database systems. Includes SQL queries for EDA, KPI generation, and business problem-solving.  
-  🔗 [View Repository](https://github.com/aniket-analytics/SQL-Projects)  
+<p align="center">
+  <a href="https://github.com/aniket-analytics/SQL-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=SQL-Projects&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/aniket-analytics/Power-BI-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=Power-BI-Projects&theme=tokyonight" />
+  </a>
+</p>
 
-- **Power BI Projects** 📊  
-  Interactive dashboards for sales insights, hospital ER analysis, and hiring metrics. Covers DAX, Power Query, and visualization best practices.  
-  🔗 [View Repository](https://github.com/aniket-analytics/Power-BI-Projects)  
+---
+
+### 🛢️ SQL Projects  
+**Retail Sales Analysis & Library Management**  
+🔹 Designed relational databases  
+🔹 Wrote SQL queries for KPIs & EDA  
+🔹 Answered real business questions  
+
+👉 [View Repository](https://github.com/aniket-analytics/SQL-Projects)  
+
+---
+
+### 📊 Power BI Projects  
+**Interactive Business Dashboards**  
+🔹 Sales insights & ROI tracking  
+🔹 Hospital ER performance metrics  
+🔹 Hiring process analytics  
+
+👉 [View Repository](https://github.com/aniket-analytics/Power-BI-Projects)  
 
 ---
 
