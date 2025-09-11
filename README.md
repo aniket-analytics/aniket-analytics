@@ -85,7 +85,7 @@ I'm a Computer Science graduate passionate about turning data into actionable in
 
 | Certification | Year | Link |
 |---------------|------|------|
-| Foundation Level 1 - Hotjar | 2025 | [View](https://verify.skilljar.com/c/tscsnpese6yt) |
+| Foundation Level 1 - Hotjar | 2025 | [View](http://verify.skilljar.com/c/tscsnpese6yt) |
 | Power BI for Beginners - Simplilearn | 2025 | [View](https://drive.google.com/file/d/1Ca3PONFygyCi3fkIwajGEeRPl_g8y0FK/view?usp=sharing) |
 | Data Analysis for Entry-Level Jobs – Udemy | 2025 | [View](https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing) |
 | Trainity Virtual Internship | 2023 | [View](https://drive.google.com/file/d/1cFkNeGjUXee0olwkvl29s9WYl9V5fr-1/view?usp=drive_link) |
