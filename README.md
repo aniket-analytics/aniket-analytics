@@ -17,7 +17,7 @@
 
 I'm a Computer Science graduate passionate about turning data into actionable insights! Currently building my expertise in **data analytics, BI tools, and digital analytics** through hands-on projects and certifications.  
 
-Recently, I earned the **Google Analytics 4 (GA4) Certification**, strengthening my ability to track, analyze, and optimize digital performance alongside traditional BI tools like **Power BI and Excel**.  
+Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotjar Foundation Level 1 Certification**, strengthening my ability to track, analyze, and optimize digital performance alongside traditional BI tools like **Power BI and Excel**.  
 
 - 🎓 **Education**: Bachelor of Science in Computer Science (2022-2025)  
 - 💼 **Experience**: Data Analytics Virtual Intern at Trainity  
@@ -27,47 +27,4 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification**, strengthening
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-
-**Core Data Skills**  
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google%20Analytics%20(GA4)-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-**Programming Languages**  
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
-
-**Data Science Libraries**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Seaborn-%235566AA?style=for-the-badge&logoColor=white"/>
-</p>
-
-**Analytics & Tracking Tools**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
-</p>
-
-**Databases**  
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-**Development Tools & Platforms**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
+## 🛠️ Tech Stack & Tools **Programming Languages** <p align="left"> <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/> </p> **Data Science Libraries** <p align="left"> <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/> <img src="https://img.shields.io/badge/Seaborn-%235566AA?style=for-the-badge&logoColor=white"/> </p> **Visualization & BI Tools** <p align="left"> <img src="https://img.shields.io/badge/Power_BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Looker_Studio-%230072C6?style=for-the-badge&logo=googleanalytics&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </p> **Analytics & Tracking Tools** <p align="left"> <img src="https://img.shields.io/badge/Google%20Analytics%20(GA4)-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/> <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/> </p> **Databases** <p align="left"> <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </p> **Development Tools & Platforms** <p align="left"> <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </p>
