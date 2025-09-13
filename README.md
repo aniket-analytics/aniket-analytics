@@ -19,7 +19,7 @@ I'm a Computer Science graduate passionate about turning data into actionable in
 
 - 🎓 **Education**: Bachelor of Science in Computer Science (2022-2025)  
 - 💼 **Experience**: Data Analytics Virtual Intern at Trainity  
-- 🌱 **Currently Learning**: GCP, Hotjar, Google Analytics (GA4), BigQuery, Digital Marketing Basics  
+- 🌱 **Currently Learning**: GCP, BigQuery, Digital Marketing Basics  
 - 🎯 **Goal**: Landing my first full-time Data Analyst role  
 - ⚡ **Fun Fact**: I enjoy transforming raw data into insights that drive impactful decisions  
 
