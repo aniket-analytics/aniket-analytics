@@ -85,6 +85,7 @@ I'm a Computer Science graduate passionate about turning data into actionable in
 
 | Certification | Year | Link |
 |---------------|------|------|
+| Google Analytics 4 | 2025 | [View](https://skillshop.credential.net/c6b0dcbe-b90d-4b9b-bfdf-ab2d2b6a22b4#acc.T6gV1bfj) |
 | Foundation Level 1 - Hotjar | 2025 | [View](http://verify.skilljar.com/c/tscsnpese6yt) |
 | Power BI for Beginners - Simplilearn | 2025 | [View](https://drive.google.com/file/d/1Ca3PONFygyCi3fkIwajGEeRPl_g8y0FK/view?usp=sharing) |
 | Data Analysis for Entry-Level Jobs – Udemy | 2025 | [View](https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing) |
