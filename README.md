@@ -141,5 +141,3 @@ I'm a Computer Science graduate passionate about turning data into actionable in
 - 🔗 LinkedIn: [Aniket Yadav](https://www.linkedin.com/in/aniket-yadav-/)  
 
 > _“Data isn’t just numbers—it’s insight waiting to happen.”_
-
-reorder your main skills, and just I've acquired ga4 certification and badge, so I think it will good if I add that in my profile summary.
