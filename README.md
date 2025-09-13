@@ -12,10 +12,11 @@
 <img src="https://github.com/aniket-analytics/aniket-analytics/blob/main/assets/banner.gif" alt="Banner" width="100%"/>
 
 ---
-
 ## 🚀 About Me
 
-I'm a Computer Science graduate passionate about turning data into actionable insights! Currently building my expertise in data analytics through hands-on projects and continuous learning. I love exploring datasets, uncovering hidden patterns, and creating compelling visualizations that tell meaningful stories.
+I'm a Computer Science graduate passionate about turning data into actionable insights! Currently building my expertise in **data analytics, BI tools, and digital analytics** through hands-on projects and certifications.  
+
+Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotjar Foundation Level 1 Certification**, strengthening my ability to track, analyze, and optimize digital performance alongside traditional BI tools like **Power BI and Excel**.  
 
 - 🎓 **Education**: Bachelor of Science in Computer Science (2022-2025)  
 - 💼 **Experience**: Data Analytics Virtual Intern at Trainity  
