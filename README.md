@@ -49,8 +49,12 @@ I'm a Computer Science graduate passionate about turning data into actionable in
   <img src="https://img.shields.io/badge/Power_BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Looker_Studio-%230072C6?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
+</p>
+
+**Analytics & Tracking Tools**
+<p align="left">
   <img src="https://img.shields.io/badge/Google%20Analytics%20(GA4)-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
 </p>
 
 **Databases**
