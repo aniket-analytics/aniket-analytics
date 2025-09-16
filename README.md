@@ -16,7 +16,7 @@
 
 I'm a Computer Science graduate passionate about turning data into actionable insights! Currently building my expertise in **data analytics, BI tools, and digital analytics** through hands-on projects and certifications.  
 
-Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotjar Foundation Level 1 Certification**, strengthening my ability to track, analyze, and optimize digital performance alongside traditional BI tools like **Power BI and Excel**.  
+Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotjar Foundation Level 1 and 2 Certification**, strengthening my ability to track, analyze, and optimize digital performance alongside traditional BI tools like **Power BI and Excel**.  
 
 - 🎓 **Education**: Bachelor of Science in Computer Science (2022-2025)  
 - 💼 **Experience**: Data Analytics Virtual Intern at Trainity  
