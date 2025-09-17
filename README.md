@@ -104,19 +104,18 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=aniket-analytics&show_icons=true&theme=tokyonight&count_private=true" height="140" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aniket-analytics&show_icons=true&theme=tokyonight&count_private=true" height="140" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-analytics&layout=compact&theme=tokyonight" height="140" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aniket-analytics&layout=compact&theme=tokyonight" height="140" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=aniket-analytics&theme=radical&hide_border=true"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-analytics&theme=radical&hide_border=true"/>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🐍 GitHub Contribution Snake  
