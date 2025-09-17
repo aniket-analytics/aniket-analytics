@@ -16,12 +16,12 @@
 
 I'm a Computer Science graduate passionate about turning data into actionable insights! Currently building my expertise in **data analytics, BI tools, and digital analytics** through hands-on projects and certifications.  
 
-Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotjar Foundation Level 1 and 2 Certification**, strengthening my ability to track, analyze, and optimize digital performance alongside traditional BI tools like **Power BI and Excel**.  
+Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotjar Foundation Level 1 & 2 Certification**, strengthening my ability to track, analyze, and optimize digital performance alongside traditional BI tools like **Power BI and Excel**.  
 
 - 🎓 **Education**: Bachelor of Science in Computer Science (2022-2025)  
 - 💼 **Experience**: Data Analytics Virtual Intern at Trainity  
 - 🌱 **Currently Learning**: GCP, BigQuery, Digital Marketing Basics  
-- 🎯 **Goal**: Landing my first full-time Data Analyst role  
+- 🎯 **Goal**: Landing my first full-time Analyst role  
 - ⚡ **Fun Fact**: I enjoy transforming raw data into insights that drive impactful decisions  
 
 ---
@@ -95,7 +95,7 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 | Google Analytics 4 (GA4) | 2025 | [View](https://skillshop.credential.net/c6b0dcbe-b90d-4b9b-bfdf-ab2d2b6a22b4#acc.T6gV1bfj) | Learned GA4 implementation, event tracking, custom reporting, and insights for web/app analytics. |
 | Foundation Level 1 - Hotjar | 2025 | [View](http://verify.skilljar.com/c/tscsnpese6yt) | Covered the basics of Hotjar including heatmaps, recordings, and survey setup for UX research. |
 | Power BI for Beginners – Simplilearn | 2025 | [View](https://drive.google.com/file/d/1Ca3PONFygyCi3fkIwajGEeRPl_g8y0FK/view?usp=sharing) | Gained skills in data modeling, DAX functions, dashboard design, and interactive reporting in Power BI. |
-| Data Analysis for Entry-Level Jobs – Udemy | 2025 | [View](https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing) | Learned data cleaning, exploratory data analysis, SQL queries, and visualization best practices. |
+| Data Analysis for Entry-Level Jobs – Udemy | 2025 | [View](https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing) | Learned Python (incl. OOPs), Advanced Excel, Pandas, NumPy, Seaborn, PostgreSQL (basic to advanced), and Google Looker Studio for analytics and visualization. |
 | Trainity Virtual Internship | 2023 | [View](https://drive.google.com/file/d/1cFkNeGjUXee0olwkvl29s9WYl9V5fr-1/view?usp=drive_link) | Worked on live data analytics projects, applying SQL, Excel, and visualization tools in real-world scenarios. |
 | Trainity Specialization Training | 2022 | [View](https://drive.google.com/file/d/1l0XXmxkaKCrzEtacPrtA186qoeF_j3Kq/view?usp=sharing_link) | Completed hands-on training in SQL, Excel, and foundational analytics concepts. |
 
