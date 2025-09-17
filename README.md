@@ -99,14 +99,17 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 | Trainity Virtual Internship | 2023 | [View](https://drive.google.com/file/d/1cFkNeGjUXee0olwkvl29s9WYl9V5fr-1/view?usp=drive_link) | Worked on live data analytics projects, applying SQL, Excel, and visualization tools in real-world scenarios. |
 | Trainity Specialization Training | 2022 | [View](https://drive.google.com/file/d/1l0XXmxkaKCrzEtacPrtA186qoeF_j3Kq/view?usp=sharing_link) | Completed hands-on training in SQL, Excel, and foundational analytics concepts. |
 
-## 📈 GitHub Stats 
+---
+
+## 📈 GitHub Stats  
+
 <table align="center" width="100%">
   <tr> 
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=aniket-analytics&show_icons=true&theme=tokyonight&count_private=true" height="140" /> 
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aniket-analytics&show_icons=true&theme=tokyonight&count_private=true" height="140" /> 
     </td>
     <td width="50%"> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-analytics&layout=compact&theme=tokyonight" height="140" /> 
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aniket-analytics&layout=compact&theme=tokyonight" height="140" /> 
     </td> 
   </tr> 
   <tr> 
@@ -114,8 +117,9 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
       <img src="https://streak-stats.demolab.com/?user=aniket-analytics&theme=radical&hide_border=true"/> 
     </td> 
   </tr> 
-</table> 
+</table>
 ---
+
 ## 🐍 GitHub Contribution Snake  
 
 <p align="center">
