@@ -87,19 +87,17 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications  
 
-| Certification | Year | Link |
-|---------------|------|------|
-| Foundation Level 2 - Hotjar | 2025 | [View](http://verify.skilljar.com/c/br8ary2r3qwp) |
-| Google Analytics 4 | 2025 | [View](https://skillshop.credential.net/c6b0dcbe-b90d-4b9b-bfdf-ab2d2b6a22b4#acc.T6gV1bfj) |
-| Foundation Level 1 - Hotjar | 2025 | [View](http://verify.skilljar.com/c/tscsnpese6yt) |
-| Power BI for Beginners - Simplilearn | 2025 | [View](https://drive.google.com/file/d/1Ca3PONFygyCi3fkIwajGEeRPl_g8y0FK/view?usp=sharing) |
-| Data Analysis for Entry-Level Jobs – Udemy | 2025 | [View](https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing) |
-| Trainity Virtual Internship | 2023 | [View](https://drive.google.com/file/d/1cFkNeGjUXee0olwkvl29s9WYl9V5fr-1/view?usp=drive_link) |
-| Trainity Specialization Training | 2022 | [View](https://drive.google.com/file/d/1l0XXmxkaKCrzEtacPrtA186qoeF_j3Kq/view?usp=sharing_link) |
-
----
+| Certification | Year | Link | Description |
+|---------------|------|------|-------------|
+| Foundation Level 2 - Hotjar | 2025 | [View](http://verify.skilljar.com/c/br8ary2r3qwp) | Advanced use of Hotjar features including behavior analysis, funnels, and user journey mapping. |
+| Google Analytics 4 (GA4) | 2025 | [View](https://skillshop.credential.net/c6b0dcbe-b90d-4b9b-bfdf-ab2d2b6a22b4#acc.T6gV1bfj) | Learned GA4 implementation, event tracking, custom reporting, and insights for web/app analytics. |
+| Foundation Level 1 - Hotjar | 2025 | [View](http://verify.skilljar.com/c/tscsnpese6yt) | Covered the basics of Hotjar including heatmaps, recordings, and survey setup for UX research. |
+| Power BI for Beginners – Simplilearn | 2025 | [View](https://drive.google.com/file/d/1Ca3PONFygyCi3fkIwajGEeRPl_g8y0FK/view?usp=sharing) | Gained skills in data modeling, DAX functions, dashboard design, and interactive reporting in Power BI. |
+| Data Analysis for Entry-Level Jobs – Udemy | 2025 | [View](https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing) | Learned data cleaning, exploratory data analysis, SQL queries, and visualization best practices. |
+| Trainity Virtual Internship | 2023 | [View](https://drive.google.com/file/d/1cFkNeGjUXee0olwkvl29s9WYl9V5fr-1/view?usp=drive_link) | Worked on live data analytics projects, applying SQL, Excel, and visualization tools in real-world scenarios. |
+| Trainity Specialization Training | 2022 | [View](https://drive.google.com/file/d/1l0XXmxkaKCrzEtacPrtA186qoeF_j3Kq/view?usp=sharing_link) | Completed hands-on training in SQL, Excel, and foundational analytics concepts. |
 
 ## 📈 GitHub Stats  
 
