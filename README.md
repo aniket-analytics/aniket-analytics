@@ -79,21 +79,21 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 <p align="center">
 
   <!-- SQL Projects Card -->
-  <a href="https://github.com/aniket-analytics/SQL-Projects" target="_blank">
-    <div style="display: inline-block; width: 300px; height: 120px; margin: 10px; border: 1px solid #444; border-radius: 10px; background-color: #0d1117; color: #fff; padding: 15px; text-align: left;">
+  <a href="https://github.com/aniket-analytics/SQL-Projects" target="_blank" style="text-decoration: none;">
+    <div style="display: inline-block; width: 280px; height: 120px; margin: 8px; border: 1px solid #30363d; border-radius: 12px; background-color: #161b22; padding: 15px; text-align: left; vertical-align: top;">
       <h3 style="margin: 0; color: #8b5cf6;">📊 SQL-Projects</h3>
-      <p style="font-size: 13px; color: #9ca3af;">
-        A collection of SQL scripts and analyses demonstrating database design, data querying, and extracting business insights from structured data.
+      <p style="font-size: 13px; color: #9ca3af; margin-top: 8px;">
+        SQL scripts & analyses on database design, querying, and extracting business insights from structured data.
       </p>
     </div>
   </a>
 
   <!-- Power BI Projects Card -->
-  <a href="https://github.com/aniket-analytics/Power-BI-Projects" target="_blank">
-    <div style="display: inline-block; width: 300px; height: 120px; margin: 10px; border: 1px solid #444; border-radius: 10px; background-color: #0d1117; color: #fff; padding: 15px; text-align: left;">
+  <a href="https://github.com/aniket-analytics/Power-BI-Projects" target="_blank" style="text-decoration: none;">
+    <div style="display: inline-block; width: 280px; height: 120px; margin: 8px; border: 1px solid #30363d; border-radius: 12px; background-color: #161b22; padding: 15px; text-align: left; vertical-align: top;">
       <h3 style="margin: 0; color: #facc15;">📈 Power-BI-Projects</h3>
-      <p style="font-size: 13px; color: #9ca3af;">
-        Interactive dashboards built in Power BI, focusing on data visualization, KPI tracking, and transforming raw data into actionable insights.
+      <p style="font-size: 13px; color: #9ca3af; margin-top: 8px;">
+        Interactive dashboards built in Power BI for data visualization, KPI tracking, and actionable insights.
       </p>
     </div>
   </a>
