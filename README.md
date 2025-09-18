@@ -95,17 +95,22 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aniket-analytics&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aniket-analytics&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aniket-analytics&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
+### 🔥 Current Focus
+- 📊 Building SQL and Power BI projects
+- 🌱 Learning GCP and BigQuery
+- 💡 Creating data visualization dashboards
 
+### 📈 Recent Achievements
+- ✅ Completed Google Analytics 4 (GA4) Certification
+- ✅ Earned Hotjar Foundation Level 1 & 2 Certifications  
+- ✅ Finished Data Analysis for Entry-Level Jobs course
+- ✅ Built interactive Power BI dashboards
+
+</div>
 ---
 
 ## 🏅 Certifications  
