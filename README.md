@@ -78,10 +78,10 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 
 <p align="center">
   <a href="https://github.com/aniket-analytics/SQL-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=SQL-Projects&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/📊 SQL--Projects-Database%20Design%20%7C%20Data%20Querying%20%7C%20Insights-blueviolet?style=for-the-badge&logo=sqlite&logoColor=white" />
   </a>
   <a href="https://github.com/aniket-analytics/Power-BI-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=Power-BI-Projects&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/📈 Power--BI--Projects-Dashboards%20%7C%20KPI%20Tracking%20%7C%20Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=white" />
   </a>
 </p>
 
