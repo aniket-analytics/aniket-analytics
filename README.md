@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Aniket Yadav 👋</h1>
+# Hi, I'm Aniket Yadav 👋
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Business+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Problem+Solver+%7C+Critical+Thinker+%7C+Quick+Learner;Email:+andyyadav12%40gmail.com&center=true&width=600&height=45"/>
 </p>
@@ -9,9 +10,11 @@
   <a href="https://drive.google.com/file/d/1YaulTQIpQhvN3COsmvaxZE0i39eN2bVS/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=aniket-analytics&style=flat&color=blue" alt="profile views"/>
 </p>
+
 <img src="https://github.com/aniket-analytics/aniket-analytics/blob/main/assets/banner.gif" alt="Banner" width="100%"/>
 
 ---
+
 ## 🚀 About Me
 
 I'm a Computer Science graduate passionate about turning data into actionable insights! Currently building my expertise in **data analytics, BI tools, and digital analytics** through hands-on projects and certifications.  
@@ -76,14 +79,32 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 
 ## 📌 Featured Projects  
 
-<p align="center">
-  <a href="https://github.com/aniket-analytics/SQL-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=SQL-Projects&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/aniket-analytics/Power-BI-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=Power-BI-Projects&theme=tokyonight" />
-  </a>
-</p>
+<div align="center">
+  
+### 🗃️ SQL Projects
+**A collection of SQL scripts and analyses demonstrating database design, data querying, and extracting business insights from structured data.**
+
+[📊 View SQL Projects →](https://github.com/aniket-analytics/SQL-Projects)
+
+### 📈 Power BI Projects  
+**Interactive dashboards built in Power BI, focusing on data visualization, KPI tracking, and transforming raw data into actionable insights.**
+
+[📊 View Power BI Projects →](https://github.com/aniket-analytics/Power-BI-Projects)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket-analytics&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-analytics&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-analytics&theme=tokyonight" alt="GitHub Streak Stats"/>
+</div>
 
 ---
 
@@ -103,23 +124,28 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 
 ## 🐍 GitHub Contribution Snake  
 
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniket-analytics/aniket-analytics/output/snake.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniket-analytics/aniket-analytics/output/snake.svg" />
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aniket-analytics/aniket-analytics/output/snake.svg" />
   </picture>
-</p>
+</div>
 
-<p align="center">
-  <em>If the animation doesn’t load, check it directly 👉 <a href="https://raw.githubusercontent.com/aniket-analytics/aniket-analytics/output/snake.svg">here</a></em>
-</p>
+<div align="center">
+  <em>If the animation doesn't load, check it directly 👉 <a href="https://raw.githubusercontent.com/aniket-analytics/aniket-analytics/output/snake.svg">here</a></em>
+</div>
 
 ---
 
 ## 🤝 Contact
 
-- 📫 Email: andyyadav12@gmail.com  
-- 🔗 LinkedIn: [Aniket Yadav](https://www.linkedin.com/in/aniket-yadav-/)  
+- 📫 **Email**: [andyyadav12@gmail.com](mailto:andyyadav12@gmail.com)  
+- 🔗 **LinkedIn**: [Aniket Yadav](https://www.linkedin.com/in/aniket-yadav-/)  
+- 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1YaulTQIpQhvN3COsmvaxZE0i39eN2bVS/view?usp=sharing)
 
-> _“Data isn’t just numbers—it’s insight waiting to happen.”_
+---
+
+<div align="center">
+  <em>"Data isn't just numbers—it's insight waiting to happen."</em>
+</div>
