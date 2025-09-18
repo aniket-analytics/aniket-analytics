@@ -77,27 +77,12 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 ## 📌 Featured Projects  
 
 <p align="center">
-
-  <!-- SQL Projects Card -->
-  <a href="https://github.com/aniket-analytics/SQL-Projects" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; width: 280px; height: 120px; margin: 8px; border: 1px solid #30363d; border-radius: 12px; background-color: #161b22; padding: 15px; text-align: left; vertical-align: top;">
-      <h3 style="margin: 0; color: #8b5cf6;">📊 SQL-Projects</h3>
-      <p style="font-size: 13px; color: #9ca3af; margin-top: 8px;">
-        SQL scripts & analyses on database design, querying, and extracting business insights from structured data.
-      </p>
-    </div>
+  <a href="https://github.com/aniket-analytics/SQL-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=SQL-Projects&theme=tokyonight" />
   </a>
-
-  <!-- Power BI Projects Card -->
-  <a href="https://github.com/aniket-analytics/Power-BI-Projects" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; width: 280px; height: 120px; margin: 8px; border: 1px solid #30363d; border-radius: 12px; background-color: #161b22; padding: 15px; text-align: left; vertical-align: top;">
-      <h3 style="margin: 0; color: #facc15;">📈 Power-BI-Projects</h3>
-      <p style="font-size: 13px; color: #9ca3af; margin-top: 8px;">
-        Interactive dashboards built in Power BI for data visualization, KPI tracking, and actionable insights.
-      </p>
-    </div>
+  <a href="https://github.com/aniket-analytics/Power-BI-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=Power-BI-Projects&theme=tokyonight" />
   </a>
-
 </p>
 
 ---
