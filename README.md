@@ -87,17 +87,6 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aniket-analytics&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-analytics&theme=tokyonight" height="180px"/>
-
-</p>
-
----
-
 ## 🏅 Certifications  
 
 | Certification | Year | Link | Description |
