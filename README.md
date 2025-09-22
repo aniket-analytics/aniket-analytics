@@ -107,8 +107,6 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 | Skill Badge | Year | Link |
 |-------------|------|------|
 | Google Analytics 4 Skill Badge | 2025 | [View](https://skillshop.exceedlms.com/student/award/GA4BadgeLink) |
-| Firebase Skill Badge | 2025 | [View](#) |
-| BigQuery Skill Badge | 2025 | [View](#) |
 
 ---
 
