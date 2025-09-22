@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:andyyadav12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aniket-yadav-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1YaulTQIpQhvN3COsmvaxZE0i39eN2bVS/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1rFWBEDoCsPP2j_sByboQIP4lumI3RtP3/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=aniket-analytics&style=flat&color=blue" alt="profile views"/>
 </p>
 <img src="https://github.com/aniket-analytics/aniket-analytics/blob/main/assets/banner.gif" alt="Banner" width="100%"/>
