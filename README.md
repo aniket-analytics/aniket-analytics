@@ -21,8 +21,8 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 
 - 🎓 **Education**: Bachelor of Science in Computer Science (2022-2025)  
 - 💼 **Experience**: Data Analytics Virtual Intern at Trainity  
-- 🌱 **Currently Learning**: GCP, BigQuery, Digital Marketing Basics  
-- 🎯 **Goal**: Landing my first full-time Analyst role  
+- 🌱 **Currently Learning**: GCP, Tableau, Firebase, Microsoft Clarity, Digital Marketing Basics  
+- 🎯 **Goal**: Landing my first full-time Data Analyst role  
 - ⚡ **Fun Fact**: I enjoy transforming raw data into insights that drive impactful decisions  
 
 ---
