@@ -107,6 +107,7 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 | Skill Badge | Year | Link |
 |-------------|------|------|
 | Google Analytics 4 Skill Badge | 2025 | <a href="https://skillshop.credential.net/c6b0dcbe-b90d-4b9b-bfdf-ab2d2b6a22b4#acc.T6gV1bfj" target="_blank">View</a> |
+| BigQuery for Data Analysts Skill Badge | 2025 | <a href="https://www.cloudskillsboost.google/public_profiles/5d393bf9-038f-433d-bc22-5abd052e2308/badges/18563547" target="_blank">View</a> |
 
 ---
 
