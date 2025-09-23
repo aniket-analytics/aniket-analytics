@@ -63,6 +63,7 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 **Development Tools & Platforms**
