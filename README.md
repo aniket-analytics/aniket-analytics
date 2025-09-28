@@ -17,7 +17,7 @@
 
 I'm a Computer Science graduate passionate about **data analytics, digital analytics, and business intelligence**. I focus on transforming raw data into clear, actionable insights that help businesses make smarter decisions.  
 
-Recently, I’ve earned industry-recognized certifications including the **Google Analytics 4 (GA4) Certification**, **Google Ads Measurement & Apps Certifications**, and the **Hotjar Foundation Certifications**, which strengthen my expertise in **digital analytics, tracking, and performance optimization**.  
+Recently, I’ve earned certifications and skill badges in **Google Analytics 4 (GA4)**, **Google Ads (Measurement, Apps, Search, and Display)**, and **Hotjar**, strengthening my expertise in digital analytics, campaign tracking, and performance optimization.
 
 Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Google BigQuery**, enabling me to analyze and visualize data effectively.  
 
@@ -105,6 +105,8 @@ Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Go
 
 | Certification | Year | Link | Description |
 |---------------|------|------|-------------|
+| **Google Ads Search Certification** | 2025 | <a href="https://skillshop.credential.net/f98cd9cc-f260-4cf1-be07-c15571c734c8#acc.Sh2u1gUR" target="_blank">View</a> | Gained expertise in building and optimizing Google Search campaigns, keyword strategies, and performance measurement. |
+| **Google Ads Display Certification** | 2025 | <a href="https://skillshop.credential.net/dbd2a659-ba19-4cbb-9b5a-87793c94b05e#acc.0KH1MTlX" target="_blank">View</a> | Learned how to design and measure effective Display campaigns to drive reach, engagement, and conversions. |
 | **Google Ads Apps** | 2025 | <a href="https://skillshop.credential.net/e6b6299e-5848-4cf8-a22f-619f8ee66d1a#acc.zXD6nkH7" target="_blank">View</a> | Learned mobile app promotion campaigns on Google Ads. |
 | **Google Ads Measurement** | 2025 | <a href="https://skillshop.credential.net/182287b6-2bb8-48bb-b25c-d90dc80f9ef0#acc.R2z6isC3" target="_blank">View</a> | Learned campaign measurement, attribution, and KPIs. |
 | **Foundation Level 2 - Hotjar** | 2025 | <a href="http://verify.skilljar.com/c/br8ary2r3qwp" target="_blank">View</a> | Advanced use of Hotjar features including behavior analysis, funnels, and user journey mapping. |
@@ -121,10 +123,12 @@ Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Go
 
 | Skill Badge | Year | Link |
 |-------------|------|------|
-| Google Ads Apps Skill Badge | 2025 | <a href="https://skillshop.credential.net/e6b6299e-5848-4cf8-a22f-619f8ee66d1a#acc.zXD6nkH7" target="_blank">View</a> |
-| Google Ads Measurement Skill Badge | 2025 | <a href="https://skillshop.credential.net/182287b6-2bb8-48bb-b25c-d90dc80f9ef0#acc.R2z6isC3" target="_blank">View</a> |
-| BigQuery for Data Analysts Skill Badge | 2025 | <a href="https://www.cloudskillsboost.google/public_profiles/5d393bf9-038f-433d-bc22-5abd052e2308/badges/18563547" target="_blank">View</a> |
-| Google Analytics 4 Skill Badge | 2025 | <a href="https://skillshop.credential.net/c6b0dcbe-b90d-4b9b-bfdf-ab2d2b6a22b4#acc.T6gV1bfj" target="_blank">View</a> |
+| **Google Ads Search Certification** | 2025 | <a href="https://skillshop.credential.net/f98cd9cc-f260-4cf1-be07-c15571c734c8#acc.Sh2u1gUR" target="_blank">View</a> 
+| **Google Ads Display Certification** | 2025 | <a href="https://skillshop.credential.net/dbd2a659-ba19-4cbb-9b5a-87793c94b05e#acc.0KH1MTlX" target="_blank">View</a> 
+| **Google Ads Apps Skill Badge** | 2025 | <a href="https://skillshop.credential.net/e6b6299e-5848-4cf8-a22f-619f8ee66d1a#acc.zXD6nkH7" target="_blank">View</a> |
+| **Google Ads Measurement Skill Badge** | 2025 | <a href="https://skillshop.credential.net/182287b6-2bb8-48bb-b25c-d90dc80f9ef0#acc.R2z6isC3" target="_blank">View</a> |
+| **BigQuery for Data Analysts Skill Badge** | 2025 | <a href="https://www.cloudskillsboost.google/public_profiles/5d393bf9-038f-433d-bc22-5abd052e2308/badges/18563547" target="_blank">View</a> |
+| **Google Analytics 4 Skill Badge** | 2025 | <a href="https://skillshop.credential.net/c6b0dcbe-b90d-4b9b-bfdf-ab2d2b6a22b4#acc.T6gV1bfj" target="_blank">View</a> |
 
 ---
 
