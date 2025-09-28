@@ -15,13 +15,15 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science graduate passionate about turning data into actionable insights! Currently building my expertise in **data analytics, BI tools, and digital analytics** through hands-on projects and certifications.  
+I'm a Computer Science graduate passionate about **data analytics, digital analytics, and business intelligence**. I focus on transforming raw data into clear, actionable insights that help businesses make smarter decisions.  
 
-Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotjar Foundation Level 1 & 2 Certification**, strengthening my ability to track, analyze, and optimize digital performance alongside traditional BI tools like **Power BI and Excel**.  
+Recently, I’ve earned industry-recognized certifications including the **Google Analytics 4 (GA4) Certification**, **Google Ads Measurement & Apps Certifications**, and the **Hotjar Foundation Certifications**, which strengthen my expertise in **digital analytics, tracking, and performance optimization**.  
+
+Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Google BigQuery**, enabling me to analyze and visualize data effectively.  
 
 - 🎓 **Education**: Bachelor of Science in Computer Science (2022-2025)  
 - 💼 **Experience**: Data Analytics Virtual Intern at Trainity  
-- 🌱 **Currently Learning**: Tableau, Microsoft Clarity, Digital Marketing Basics  
+- 🌱 **Currently Learning**: Tableau, Microsoft Clarity & Digital Marketing Basics  
 - 🎯 **Goal**: Landing my first full-time Data Analyst role  
 - ⚡ **Fun Fact**: I enjoy transforming raw data into insights that drive impactful decisions  
 
@@ -103,13 +105,15 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 
 | Certification | Year | Link | Description |
 |---------------|------|------|-------------|
-| Foundation Level 2 - Hotjar | 2025 | <a href="http://verify.skilljar.com/c/br8ary2r3qwp" target="_blank">View</a> | Advanced use of Hotjar features including behavior analysis, funnels, and user journey mapping. |
-| Google Analytics 4 (GA4) Certification | 2025 | <a href="https://skillshop.credential.net/c6b0dcbe-b90d-4b9b-bfdf-ab2d2b6a22b4#acc.T6gV1bfj" target="_blank">View</a> | Learned GA4 implementation, event tracking, custom reporting, and insights for web/app analytics. |
-| Foundation Level 1 - Hotjar | 2025 | <a href="http://verify.skilljar.com/c/tscsnpese6yt" target="_blank">View</a> | Covered the basics of Hotjar including heatmaps, recordings, and survey setup for UX research. |
-| Power BI for Beginners – Simplilearn | 2025 | <a href="https://drive.google.com/file/d/1Ca3PONFygyCi3fkIwajGEeRPl_g8y0FK/view?usp=sharing" target="_blank">View</a> | Gained skills in data modeling, DAX functions, dashboard design, and interactive reporting in Power BI. |
-| Data Analysis for Entry-Level Jobs – Udemy | 2025 | <a href="https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing" target="_blank">View</a> | Learned Python (incl. OOPs), Advanced Excel, Pandas, NumPy, Seaborn, PostgreSQL (basic to advanced), and Google Looker Studio for analytics and visualization. |
-| Trainity Virtual Internship | 2023 | <a href="https://drive.google.com/file/d/1cFkNeGjUXee0olwkvl29s9WYl9V5fr-1/view?usp=drive_link" target="_blank">View</a> | Worked on live data analytics projects, applying SQL, Excel, and visualization tools in real-world scenarios. |
-| Trainity Specialization Training | 2022 | <a href="https://drive.google.com/file/d/1l0XXmxkaKCrzEtacPrtA186qoeF_j3Kq/view?usp=sharing_link" target="_blank">View</a> | Completed hands-on training in SQL, Excel, and foundational analytics concepts. |
+| **Google Ads Apps** | 2025 | <a href="https://skillshop.credential.net/e6b6299e-5848-4cf8-a22f-619f8ee66d1a#acc.zXD6nkH7" target="_blank">View</a> | Learned mobile app promotion campaigns on Google Ads. |
+| **Google Ads Measurement** | 2025 | <a href="https://skillshop.credential.net/182287b6-2bb8-48bb-b25c-d90dc80f9ef0#acc.R2z6isC3" target="_blank">View</a> | Learned campaign measurement, attribution, and KPIs. |
+| **Foundation Level 2 - Hotjar** | 2025 | <a href="http://verify.skilljar.com/c/br8ary2r3qwp" target="_blank">View</a> | Advanced use of Hotjar features including behavior analysis, funnels, and user journey mapping. |
+| **Google Analytics 4 (GA4) Certification** | 2025 | <a href="https://skillshop.credential.net/c6b0dcbe-b90d-4b9b-bfdf-ab2d2b6a22b4#acc.T6gV1bfj" target="_blank">View</a> | Learned GA4 implementation, event tracking, custom reporting, and insights for web/app analytics. |
+| **Foundation Level 1 - Hotjar** | 2025 | <a href="http://verify.skilljar.com/c/tscsnpese6yt" target="_blank">View</a> | Covered the basics of Hotjar including heatmaps, recordings, and survey setup for UX research. |
+| **Power BI for Beginners** | 2025 | <a href="https://drive.google.com/file/d/1Ca3PONFygyCi3fkIwajGEeRPl_g8y0FK/view?usp=sharing" target="_blank">View</a> | Gained skills in data modeling, DAX functions, dashboard design, and interactive reporting in Power BI. |
+| **Data Analysis for Entry-Level Jobs** | 2025 | <a href="https://drive.google.com/file/d/18K0ItTMsnqZkpv3yNo3DzsKgjMOP_BGB/view?usp=sharing" target="_blank">View</a> | Learned Python (incl. OOPs), Advanced Excel, Pandas, NumPy, Seaborn, PostgreSQL (basic to advanced), and Google Looker Studio for analytics and visualization. |
+| **Trainity Virtual Internship** | 2023 | <a href="https://drive.google.com/file/d/1cFkNeGjUXee0olwkvl29s9WYl9V5fr-1/view?usp=drive_link" target="_blank">View</a> | Worked on live data analytics projects, applying SQL, Excel, and visualization tools in real-world scenarios. |
+| **Trainity Specialization Training** | 2022 | <a href="https://drive.google.com/file/d/1l0XXmxkaKCrzEtacPrtA186qoeF_j3Kq/view?usp=sharing_link" target="_blank">View</a> | Completed hands-on training in SQL, Excel, and foundational analytics concepts. |
 
 ---
 
