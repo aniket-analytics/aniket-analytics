@@ -17,7 +17,7 @@
 
 I'm a Computer Science graduate passionate about **data analytics, digital analytics, and business intelligence**. I focus on transforming raw data into clear, actionable insights that help businesses make smarter decisions.  
 
-Recently, I’ve earned certifications and skill badges in **Google Analytics 4 (GA4)**, **Google Ads (Measurement, Apps, Search, and Display)**, **Hotjar**,and **Microsoft Clarity**, strengthening my expertise in digital analytics, campaign tracking, and performance optimization.
+Recently, I’ve earned certifications and skill badges in **Google Analytics 4 (GA4)**, **Google Ads (Measurement, Apps, Search, and Display)**, **Hotjar** and **Microsoft Clarity**, strengthening my expertise in digital analytics, campaign tracking, and performance optimization.
 
 Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Google BigQuery**, enabling me to analyze and visualize data effectively.  
 
