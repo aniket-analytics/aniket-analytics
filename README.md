@@ -105,6 +105,7 @@ Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Go
 
 | Certification | Year | Link | Description |
 |---------------|------|------|-------------|
+| **Microsoft Clarity** | 2025 | <a href="http://ude.my/UC-b5e783ac-2731-4729-95d2-304bd23d253a" target="_blank">View</a>
 | **Google Ads Search Certification** | 2025 | <a href="https://skillshop.credential.net/f98cd9cc-f260-4cf1-be07-c15571c734c8#acc.Sh2u1gUR" target="_blank">View</a> | Gained expertise in building and optimizing Google Search campaigns, keyword strategies, and performance measurement. |
 | **Google Ads Display Certification** | 2025 | <a href="https://skillshop.credential.net/dbd2a659-ba19-4cbb-9b5a-87793c94b05e#acc.0KH1MTlX" target="_blank">View</a> | Learned how to design and measure effective Display campaigns to drive reach, engagement, and conversions. |
 | **Google Ads Apps** | 2025 | <a href="https://skillshop.credential.net/e6b6299e-5848-4cf8-a22f-619f8ee66d1a#acc.zXD6nkH7" target="_blank">View</a> | Learned mobile app promotion campaigns on Google Ads. |
