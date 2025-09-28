@@ -78,6 +78,12 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
+**Marketing & App Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
 ---
 
 ## 📌 Featured Projects  
