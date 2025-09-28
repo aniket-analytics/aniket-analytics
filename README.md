@@ -17,7 +17,7 @@
 
 I'm a Computer Science graduate passionate about **data analytics, digital analytics, and business intelligence**. I focus on transforming raw data into clear, actionable insights that help businesses make smarter decisions.  
 
-Recently, I’ve earned certifications and skill badges in **Google Analytics 4 (GA4)**, **Google Ads (Measurement, Apps, Search, and Display)**, and **Hotjar**, strengthening my expertise in digital analytics, campaign tracking, and performance optimization.
+Recently, I’ve earned certifications and skill badges in **Google Analytics 4 (GA4)**, **Google Ads (Measurement, Apps, Search, and Display)**, **Hotjar**,and **Microsoft Clarity**, strengthening my expertise in digital analytics, campaign tracking, and performance optimization.
 
 Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Google BigQuery**, enabling me to analyze and visualize data effectively.  
 
@@ -60,6 +60,7 @@ Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Go
   <img src="https://img.shields.io/badge/Google%20Analytics%20(GA4)-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 **Cloud Data Warehouses**
@@ -105,7 +106,7 @@ Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Go
 
 | Certification | Year | Link | Description |
 |---------------|------|------|-------------|
-| **Microsoft Clarity** | 2025 | <a href="http://ude.my/UC-b5e783ac-2731-4729-95d2-304bd23d253a" target="_blank">View</a>
+| **Microsoft Clarity** | 2025 | <a href="http://ude.my/UC-b5e783ac-2731-4729-95d2-304bd23d253a" target="_blank">View</a> | Learned how to analyze user behavior with session recordings, heatmaps, and engagement tracking to optimize UX and conversion. |
 | **Google Ads Search Certification** | 2025 | <a href="https://skillshop.credential.net/f98cd9cc-f260-4cf1-be07-c15571c734c8#acc.Sh2u1gUR" target="_blank">View</a> | Gained expertise in building and optimizing Google Search campaigns, keyword strategies, and performance measurement. |
 | **Google Ads Display Certification** | 2025 | <a href="https://skillshop.credential.net/dbd2a659-ba19-4cbb-9b5a-87793c94b05e#acc.0KH1MTlX" target="_blank">View</a> | Learned how to design and measure effective Display campaigns to drive reach, engagement, and conversions. |
 | **Google Ads Apps** | 2025 | <a href="https://skillshop.credential.net/e6b6299e-5848-4cf8-a22f-619f8ee66d1a#acc.zXD6nkH7" target="_blank">View</a> | Learned mobile app promotion campaigns on Google Ads. |
