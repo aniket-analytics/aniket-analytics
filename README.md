@@ -59,11 +59,15 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
   <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
 </p>
 
+**Cloud Data Warehouses**
+<p align="left">
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
 **Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 **Development Tools & Platforms**
