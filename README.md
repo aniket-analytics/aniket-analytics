@@ -23,7 +23,7 @@ Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Go
 
 - 🎓 **Education**: Bachelor of Science in Computer Science (2022-2025)  
 - 💼 **Experience**: Data Analytics Virtual Intern at Trainity  
-- 🌱 **Currently Learning**: Tableau, Microsoft Clarity & Digital Marketing Basics  
+- 🌱 **Currently Learning**: Tableau & Digital Marketing Basics  
 - 🎯 **Goal**: Landing my first full-time Data Analyst role  
 - ⚡ **Fun Fact**: I enjoy transforming raw data into insights that drive impactful decisions  
 
