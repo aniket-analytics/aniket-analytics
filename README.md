@@ -57,6 +57,7 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Analytics%20(GA4)-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 **Cloud Data Warehouses**
@@ -81,7 +82,6 @@ Recently, I earned the **Google Analytics 4 (GA4) Certification** and the **Hotj
 **Marketing & App Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
