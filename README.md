@@ -58,9 +58,9 @@ Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Go
 **Analytics & Tracking Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Analytics%20(GA4)-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase%20Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft%20Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
 </p>
 
 **Cloud Data Warehouses**
@@ -82,9 +82,11 @@ Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Go
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-**Marketing & App Tools**
+**Marketing & Advertising Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+  <img src="https://img.shields.io/badge/A/B%20Testing%20%26%20Attribution-FF6F00?style=for-the-badge&logo=googletagmanager&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Campaign%20Optimization-34A853?style=for-the-badge&logo=googlemarketingplatform&logoColor=white"/>
 </p>
 
 ---
