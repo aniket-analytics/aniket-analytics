@@ -106,6 +106,7 @@ Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Go
 
 | Certification | Year | Link | Description |
 |---------------|------|------|-------------|
+| **Marketing Analytics: Customer Value and Promotion Strategy** | 2025 | <a href="https://www.udemy.com/certificate/UC-6c69cfa3-7720-4f42-9bb3-4c10abcda884/" target="_blank">View</a> | Learned to calculate customer lifetime value (CLV) under various scenarios, apply discount and retention rates, and run Monte Carlo simulations for uncertainty modeling. |
 | **Marketing Data Analysis & Data Analytics** | 2025 | <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-0f2ebc1a-d18f-48bc-b1a8-ad49f787ea25.pdf" target="_blank">View</a> | Covered data collection, cleaning, preparation, and statistical analysis techniques, including A/B testing and predictive analytics for marketing insights. |
 | **Microsoft Clarity** | 2025 | <a href="http://ude.my/UC-b5e783ac-2731-4729-95d2-304bd23d253a" target="_blank">View</a> | Learned how to analyze user behavior with session recordings, heatmaps, and engagement tracking to optimize UX and conversion. |
 | **Google Ads Search Certification** | 2025 | <a href="https://skillshop.credential.net/f98cd9cc-f260-4cf1-be07-c15571c734c8#acc.Sh2u1gUR" target="_blank">View</a> | Gained expertise in building and optimizing Google Search campaigns, keyword strategies, and performance measurement. |
@@ -125,12 +126,7 @@ Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Go
 
 | Skill Badge | Year | Link |
 |-------------|------|------|
-| **Google Ads Search Certification** | 2025 | <a href="https://skillshop.credential.net/f98cd9cc-f260-4cf1-be07-c15571c734c8#acc.Sh2u1gUR" target="_blank">View</a> 
-| **Google Ads Display Certification** | 2025 | <a href="https://skillshop.credential.net/dbd2a659-ba19-4cbb-9b5a-87793c94b05e#acc.0KH1MTlX" target="_blank">View</a> 
-| **Google Ads Apps Skill Badge** | 2025 | <a href="https://skillshop.credential.net/e6b6299e-5848-4cf8-a22f-619f8ee66d1a#acc.zXD6nkH7" target="_blank">View</a> |
-| **Google Ads Measurement Skill Badge** | 2025 | <a href="https://skillshop.credential.net/182287b6-2bb8-48bb-b25c-d90dc80f9ef0#acc.R2z6isC3" target="_blank">View</a> |
 | **BigQuery for Data Analysts Skill Badge** | 2025 | <a href="https://www.cloudskillsboost.google/public_profiles/5d393bf9-038f-433d-bc22-5abd052e2308/badges/18563547" target="_blank">View</a> |
-| **Google Analytics 4 Skill Badge** | 2025 | <a href="https://skillshop.credential.net/c6b0dcbe-b90d-4b9b-bfdf-ab2d2b6a22b4#acc.T6gV1bfj" target="_blank">View</a> |
 
 ---
 
