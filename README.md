@@ -106,7 +106,7 @@ Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Go
 
 | Certification | Year | Link | Description |
 |---------------|------|------|-------------|
-| **Marketing Data Analysis & Data Analytics** | 2025 | <a href="https://ude.my/UC-Of2ebc1a-d18f-48bc-b1a8-ad49f787ea25" target="_blank">View</a> | Covered data collection, cleaning, preparation, and statistical analysis techniques, including A/B testing and predictive analytics for marketing insights. |
+| **Marketing Data Analysis & Data Analytics** | 2025 | <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-0f2ebc1a-d18f-48bc-b1a8-ad49f787ea25.pdf" target="_blank">View</a> | Covered data collection, cleaning, preparation, and statistical analysis techniques, including A/B testing and predictive analytics for marketing insights. |
 | **Microsoft Clarity** | 2025 | <a href="http://ude.my/UC-b5e783ac-2731-4729-95d2-304bd23d253a" target="_blank">View</a> | Learned how to analyze user behavior with session recordings, heatmaps, and engagement tracking to optimize UX and conversion. |
 | **Google Ads Search Certification** | 2025 | <a href="https://skillshop.credential.net/f98cd9cc-f260-4cf1-be07-c15571c734c8#acc.Sh2u1gUR" target="_blank">View</a> | Gained expertise in building and optimizing Google Search campaigns, keyword strategies, and performance measurement. |
 | **Google Ads Display Certification** | 2025 | <a href="https://skillshop.credential.net/dbd2a659-ba19-4cbb-9b5a-87793c94b05e#acc.0KH1MTlX" target="_blank">View</a> | Learned how to design and measure effective Display campaigns to drive reach, engagement, and conversions. |
