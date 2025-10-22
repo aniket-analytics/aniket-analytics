@@ -89,6 +89,15 @@ Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Go
   <img src="https://img.shields.io/badge/Campaign%20Optimization-34A853?style=for-the-badge&logo=googlemarketingplatform&logoColor=white"/>
 </p>
 
+**Digital Marketing Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/SEO%20%26%20Content%20Strategy-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Social%20Media%20Marketing-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email%20Marketing-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Performance%20Marketing-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital%20Strategy%20%26%20Growth-34A853?style=for-the-badge&logo=googlemarketingplatform&logoColor=white"/>
+</p>
+
 ---
 
 ## 📌 Featured Projects  
