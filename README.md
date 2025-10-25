@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Aniket Yadav 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Business+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Problem+Solver+%7C+Critical+Thinker+%7C+Quick+Learner;Email:+aniket.analytics1210%40gmail.com&center=true&width=600&height=45"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Problem+Solver+%7C+Critical+Thinker+%7C+Quick+Learner;Email:+aniket.analytics1210%40gmail.com&center=true&width=600&height=45"/>
 </p>
 
 <p align="center">
   <a href="mailto:aniket.analytics1210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aniket-yadav-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1lfPKHJwfcK7HYOu90XkyRvsEBWY84MlI/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/18h-iaeilXQv8m9-vioJ-Uf6r-nyG2vjz/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=aniket-analytics&style=flat&color=blue" alt="profile views"/>
 </p>
 <img src="https://github.com/aniket-analytics/aniket-analytics/blob/main/assets/banner.gif" alt="Banner" width="100%"/>
