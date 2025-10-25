@@ -13,19 +13,19 @@
 
 ---
 
-## 🚀 About Me
+🚀 **About Me**  
+I'm a Computer Science graduate passionate about **data analytics, digital analytics, and business intelligence**. I specialize in transforming raw data into **actionable insights** that empower data-driven decisions and improve business performance.
 
-I'm a Computer Science graduate passionate about **data analytics, digital analytics, and business intelligence**. I focus on transforming raw data into clear, actionable insights that help businesses make smarter decisions.  
+Recently, I’ve earned certifications and skill badges in **Google Analytics 4 (GA4)**, **Google Ads (Measurement, Apps, Search, and Display)**, **Hotjar**, and **Microsoft Clarity**, strengthening my expertise in **digital analytics, campaign tracking, user behavior analysis**, and **performance optimization**.
 
-Recently, I’ve earned certifications and skill badges in **Google Analytics 4 (GA4)**, **Google Ads (Measurement, Apps, Search, and Display)**, **Hotjar** and **Microsoft Clarity**, strengthening my expertise in digital analytics, campaign tracking, and performance optimization.
+Alongside these, I bring strong technical skills in **SQL**, **Python**, **Power BI**, **Excel**, and **Google BigQuery**, enabling me to **analyze, clean, and visualize complex datasets** effectively.  
+I’m currently learning **Tableau** and deepening my understanding of **GDPR compliance and data governance**.
 
-Alongside these, I bring strong skills in **SQL, Python, Power BI, Excel, and Google BigQuery**, enabling me to analyze and visualize data effectively.  
-
-- 🎓 **Education**: Bachelor of Science in Computer Science (2022-2025)  
-- 💼 **Experience**: Data Analytics Virtual Intern at Trainity  
-- 🌱 **Currently Learning**: Tableau and GDPR.  
-- 🎯 **Goal**: Landing my first full-time Data Analyst role  
-- ⚡ **Fun Fact**: I enjoy transforming raw data into insights that drive impactful decisions  
+🎓 **Education:** Bachelor of Science in Computer Science (2022–2025)  
+💼 **Experience:** Data Analytics Virtual Intern at Trainity  
+🌱 **Currently Learning:** Tableau and GDPR compliance  
+🎯 **Goal:** To contribute as a Web & App Data Analyst, delivering impactful, data-backed insights  
+⚡ **Fun Fact:** I love turning messy datasets into clean dashboards that tell a story
 
 ---
 
