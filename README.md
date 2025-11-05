@@ -20,12 +20,11 @@ Recently, I’ve earned certifications and skill badges in **Google Analytics 4 
 
 Alongside these, I bring strong technical skills in **SQL**, **Python**, **Power BI**, **Excel**, and **Google BigQuery**, enabling me to **analyze, clean, and visualize complex datasets** effectively.  
 <!--I’m currently learning **Tableau** and deepening my understanding of **GDPR compliance and data governance**.-->
-
 🎓 **Education:** Bachelor of Science in Computer Science (2022–2025)  
 💼 **Experience:** Data Analytics Virtual Intern at Trainity  
-<!--🌱 **Currently Learning:** Tableau and GDPR compliance-->
 🎯 **Goal:** To contribute as a Web & App Data Analyst, delivering impactful, data-backed insights  
 ⚡ **Fun Fact:** I love turning messy datasets into clean dashboards that tell a story
+<!--🌱 **Currently Learning:** Tableau and GDPR compliance-->
 
 ---
 
