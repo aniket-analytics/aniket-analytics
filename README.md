@@ -159,7 +159,7 @@ Alongside these, I bring strong technical skills in **SQL**, **Python**, **Power
 
 ## 🤝 Contact
 
-- 📫 Email: andyyadav12@gmail.com  
+- 📫 Email: aniket.analytics1210@gmail.com  
 - 🔗 LinkedIn: [Aniket Yadav](https://www.linkedin.com/in/aniket-yadav-/)  
 
 > _“Data isn’t just numbers—it’s insight waiting to happen.”_
