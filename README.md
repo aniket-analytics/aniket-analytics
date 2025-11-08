@@ -60,7 +60,6 @@ Alongside these, I bring strong technical skills in **SQL**, **Python**, **Power
   <img src="https://img.shields.io/badge/Firebase%20Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft%20Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hotjar%20Certified-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
 </p>
 
 **Cloud Data Warehouses**
