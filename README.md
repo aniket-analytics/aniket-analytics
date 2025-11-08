@@ -60,6 +60,7 @@ Alongside these, I bring strong technical skills in **SQL**, **Python**, **Power
   <img src="https://img.shields.io/badge/Firebase%20Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft%20Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hotjar%20Certified-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
 </p>
 
 **Cloud Data Warehouses**
@@ -116,6 +117,7 @@ Alongside these, I bring strong technical skills in **SQL**, **Python**, **Power
 
 | Certification | Year | Link | Description |
 |---------------|------|------|-------------|
+| **Hotjar Certified (Foundation Levels 1–3)** | 2025 | <a href="http://verify.skilljar.com/c/tscsnpese6yt" target="_blank">View L1</a> <a href="http://verify.skilljar.com/c/br8ary2r3qwp" target="_blank">View L2</a> <a href="https://verify.skilljar.com/c/59vvzah5cwkt" target="_blank">View L3</a> | Advanced knowledge of UX analytics platforms, including heatmaps, scroll maps, and user journey tracking tools. Skilled in leveraging Hotjar for web behavior analysis, conversion optimization, and actionable reporting. |
 | **Digital Marketing - HubSpot Academy** | 2025 | <a href="https://app-na2.hubspot.com/academy/achievements/9bxpymln/en/1/aniket-yadav/digital-marketing" target="_blank">View</a> | Gained expertise in creating digital marketing strategies, optimizing websites, and growing brand presence through SEO, email, and social media. |
 | **Marketing Analytics: Customer Value and Promotion Strategy - Udemy** | 2025 | <a href="https://www.udemy.com/certificate/UC-6c69cfa3-7720-4f42-9bb3-4c10abcda884/" target="_blank">View</a> | Learned to calculate customer lifetime value (CLV) under various scenarios, apply discount and retention rates, Monte Carlo simulations for uncertainty modeling. |
 | **Marketing Data Analysis & Data Analytics - Udemy** | 2025 | <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-0f2ebc1a-d18f-48bc-b1a8-ad49f787ea25.pdf" target="_blank">View</a> | Covered data collection, cleaning, preparation, and statistical analysis techniques, including A/B testing and predictive analytics for marketing insights. |
@@ -124,7 +126,6 @@ Alongside these, I bring strong technical skills in **SQL**, **Python**, **Power
 | **Google Ads Display Certification - Google Skillshop** | 2025 | <a href="https://skillshop.credential.net/dbd2a659-ba19-4cbb-9b5a-87793c94b05e#acc.0KH1MTlX" target="_blank">View</a> | Learned how to design and measure effective Display campaigns to drive reach, engagement, and conversions. |
 | **Google Ads Apps - Google Skillshop** | 2025 | <a href="https://skillshop.credential.net/e6b6299e-5848-4cf8-a22f-619f8ee66d1a#acc.zXD6nkH7" target="_blank">View</a> | Learned mobile app promotion campaigns on Google Ads. |
 | **Google Ads Measurement - Google Skillshop** | 2025 | <a href="https://skillshop.credential.net/182287b6-2bb8-48bb-b25c-d90dc80f9ef0#acc.R2z6isC3" target="_blank">View</a> | Learned campaign measurement, attribution, and KPIs. |
-| **Hotjar Foundation Level 1 & 2 - Hotjar** | 2025 | <a href="http://verify.skilljar.com/c/tscsnpese6yt" target="_blank">View L1</a> <a href="http://verify.skilljar.com/c/br8ary2r3qwp" target="_blank">View L2</a> | Covered basics (heatmaps, recordings, surveys) and advanced use (behavior analysis, funnels, and user journey mapping). |
 | **Google Analytics 4 (GA4) Certification - Google Skillshop** | 2025 | <a href="https://skillshop.credential.net/c6b0dcbe-b90d-4b9b-bfdf-ab2d2b6a22b4#acc.T6gV1bfj" target="_blank">View</a> | Learned GA4 implementation, event tracking, custom reporting, and insights for web/app analytics. |
 | **Power BI for Beginners - Simplilearn** | 2025 | <a href="https://drive.google.com/file/d/1Ca3PONFygyCi3fkIwajGEeRPl_g8y0FK/view?usp=sharing" target="_blank">View</a> | Gained skills in data modeling, DAX functions, dashboard design, and interactive reporting in Power BI. |
 | **Data Analysis for Entry-Level Jobs - Udemy** | 2025 | <a href="http://ude.my/UC-bfb6fff1-d138-4cba-a684-c41102d453fd" target="_blank">View</a> | Learned Python (incl. OOPs), Advanced Excel, Pandas, NumPy, Seaborn, PostgreSQL (basic to advanced), and Google Looker Studio for analytics and visualization. |
