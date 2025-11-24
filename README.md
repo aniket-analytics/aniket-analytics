@@ -57,7 +57,7 @@ Alongside these, I bring strong technical skills in **SQL**, **Python**, **Power
 **Analytics & Tracking Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Analytics%20(GA4)-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Product%20Analytics%20(Mixpanel)-7E57C2?style=for-the-badge&logo=mixpanel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mixpanel-7E57C2?style=for-the-badge&logo=mixpanel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase%20Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft%20Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
