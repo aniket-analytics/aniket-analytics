@@ -57,6 +57,7 @@ Alongside these, I bring strong technical skills in **SQL**, **Python**, **Power
 **Analytics & Tracking Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Analytics%20(GA4)-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Product%20Analytics%20(Mixpanel)-7E57C2?style=for-the-badge&logo=mixpanel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase%20Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft%20Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
@@ -116,6 +117,7 @@ Alongside these, I bring strong technical skills in **SQL**, **Python**, **Power
 
 | Certification | Year | Link | Description |
 |---------------|------|------|-------------|
+| **Product Analytics Micro-Certification (Mixpanel x Product School)** | 2025 | <a href="/mnt/data/certificate-59vvzah5cwkt-1762592183.pdf" target="_blank">View</a> | Learned product analytics fundamentals including event tracking, funnels, retention analysis, cohort insights, and data-driven product decision-making using Mixpanel. |
 | **Hotjar Certified (Foundation Levels 1–3)** | 2025 | <a href="http://verify.skilljar.com/c/tscsnpese6yt" target="_blank">View L1</a> <a href="http://verify.skilljar.com/c/br8ary2r3qwp" target="_blank">View L2</a> <a href="https://verify.skilljar.com/c/59vvzah5cwkt" target="_blank">View L3</a> | Advanced knowledge of UX analytics platforms, including heatmaps, scroll maps, and user journey tracking tools. Skilled in leveraging Hotjar for web behavior analysis, conversion optimization, and actionable reporting. |
 | **Digital Marketing - HubSpot Academy** | 2025 | <a href="https://app-na2.hubspot.com/academy/achievements/9bxpymln/en/1/aniket-yadav/digital-marketing" target="_blank">View</a> | Gained expertise in creating digital marketing strategies, optimizing websites, and growing brand presence through SEO, email, and social media. |
 | **Marketing Analytics: Customer Value and Promotion Strategy - Udemy** | 2025 | <a href="https://www.udemy.com/certificate/UC-6c69cfa3-7720-4f42-9bb3-4c10abcda884/" target="_blank">View</a> | Learned to calculate customer lifetime value (CLV) under various scenarios, apply discount and retention rates, Monte Carlo simulations for uncertainty modeling. |
