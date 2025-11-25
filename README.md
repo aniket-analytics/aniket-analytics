@@ -104,10 +104,10 @@ Alongside these, I bring strong technical skills in **SQL**, **Python**, **Power
 
 <p align="center">
   <a href="https://github.com/aniket-analytics/SQL-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=SQL-Projects" />
+    <img src="https://<YOUR-VERCEL-URL>/api/pin/?username=aniket-analytics&repo=SQL-Projects&theme=tokyonight" />
   </a>
   <a href="https://github.com/aniket-analytics/Power-BI-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-analytics&repo=Power-BI-Projects" />
+    <img src="https://<YOUR-VERCEL-URL>/api/pin/?username=aniket-analytics&repo=Power-BI-Projects&theme=tokyonight" />
   </a>
 </p>
 
