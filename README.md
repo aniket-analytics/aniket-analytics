@@ -30,30 +30,49 @@ I have hands-on experience across the **end-to-end analytics lifecycle** — fro
 
 ## ⭐ Featured Projects
 
-### 📊 Power BI Dashboards
-- **Amazon Sales Analytics Dashboard**  
-  End-to-end e-commerce analytics dashboard built using **Power BI**, integrating **multiple datasets** with joins and DAX measures.  
-  **Highlights:** Sales & returns analysis, product-level insights, geographic trends, shipping status tracking, interactive navigation.  
-  🔗 Repo: https://github.com/aniket-analytics/Power-BI-Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-- **Sales Report Dashboard**  
-  Business-focused dashboard analyzing **sales, profit, and customer behavior** across categories, sub-categories, states, and time.  
-  **Highlights:** KPIs, profit/loss trends, AOV, category & regional insights.  
-  🔗 Repo: https://github.com/aniket-analytics/Power-BI-Projects
+### 📊 Power BI Projects  
+**Interactive Business Intelligence Dashboards**
 
----
+I have built multiple **end-to-end Power BI dashboards** focusing on **sales analytics, product performance, geographic insights, and business KPIs**.  
+These projects demonstrate my ability to work across the full BI lifecycle:
 
-### 🧮 SQL Analytics Projects
-- **SQL Case Studies & Interview Questions**  
-  Collection of **real-world SQL problems** covering joins, CTEs, window functions, subqueries, and business scenarios.  
-  **Highlights:** Customer analysis, transaction insights, ranking, aggregations, and performance optimization.  
-  🔗 Repo: https://github.com/aniket-analytics/SQL-Projects
+- Data cleaning & transformation using **Power Query**
+- **Data modeling & joins** across multiple datasets
+- Creating **DAX measures** for KPIs and insights
+- Designing **interactive dashboards** with tooltips, navigation, and storytelling
+- Applying **business context** to drive actionable insights
 
-- **Data Analysis with SQL**  
-  Hands-on SQL projects focused on **data exploration, KPI calculation, and business-driven insights** using structured datasets.  
-  🔗 Repo: https://github.com/aniket-analytics/SQL-Projects
+🔗 **Repository:**  
+https://github.com/aniket-analytics/Power-BI-Projects
 
----
+    </td>
+    <td width="50%" valign="top">
+
+### 🧮 SQL Projects  
+**Data Analysis & Problem Solving with SQL**
+
+My SQL projects focus on solving **real-world business and analytical problems** using structured datasets.  
+They showcase strong command over:
+
+- **Complex joins** & relational data analysis
+- **CTEs, subqueries, and window functions**
+- Aggregations, ranking, and KPI calculations
+- Writing **optimized, readable SQL queries**
+- Translating business questions into SQL solutions
+
+These projects are aligned with **Data Analyst interview scenarios** and practical analytics use cases.
+
+🔗 **Repository:**  
+https://github.com/aniket-analytics/SQL-Projects
+
+    </td>
+  </tr>
+</table>
+
 
 ## 🛠️ Tech Stack & Tools
 
