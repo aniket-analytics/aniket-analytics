@@ -44,38 +44,42 @@ I have hands-on experience across the **end-to-end analytics lifecycle**:
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 📊 Power BI Projects  
-**Interactive Business Intelligence Dashboards**
-
-I have built multiple **end-to-end Power BI dashboards** focusing on **sales analytics, product performance, geographic insights, and business KPIs**.
-
-✔ Power Query for data cleaning  
-✔ Data modeling & joins  
-✔ DAX measures for KPIs & trends  
-✔ Tooltips, navigation & storytelling  
-✔ Business-focused insights  
-
-🔗 **Repository:**  
-https://github.com/aniket-analytics/Power-BI-Projects
-
+      <h3>📊 Power BI Analytics Projects</h3>
+      <p>
+        A collection of <strong>end-to-end Power BI dashboards</strong> focused on
+        <strong>business intelligence, sales analytics, and e-commerce insights</strong>.
+      </p>
+      <ul>
+        <li>Integrated <strong>multiple datasets</strong> using data modeling & relationships</li>
+        <li>Built <strong>DAX measures</strong> for KPIs, trends, and performance metrics</li>
+        <li>Designed <strong>interactive dashboards</strong> with tooltips & navigation</li>
+        <li>Analyzed <strong>sales, returns, products, geography, and time-based trends</strong></li>
+      </ul>
+      <p>
+        🔗 <strong>Repository:</strong><br/>
+        <a href="https://github.com/aniket-analytics/Power-BI-Projects">
+          github.com/aniket-analytics/Power-BI-Projects
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-
-### 🧮 SQL Projects  
-**Analytics, Insights & Problem Solving**
-
-My SQL projects focus on **real-world business and analytical problems**, aligned with **Data Analyst & BI interview scenarios**.
-
-✔ Complex joins & relational analysis  
-✔ CTEs, subqueries & window functions  
-✔ KPI calculations & aggregations  
-✔ Optimized & readable queries  
-✔ Translating business questions into SQL  
-
-🔗 **Repository:**  
-https://github.com/aniket-analytics/SQL-Projects
-
+      <h3>🧮 SQL Analytics Projects</h3>
+      <p>
+        A set of <strong>SQL-based analytics projects</strong> focused on
+        <strong>real-world business problem solving and data exploration</strong>.
+      </p>
+      <ul>
+        <li>Advanced queries using <strong>JOINs, CTEs, Window Functions</strong></li>
+        <li>Business-driven KPI and metric calculations</li>
+        <li>Customer, transaction, and performance analysis</li>
+        <li>Interview-style and real-world case study questions</li>
+      </ul>
+      <p>
+        🔗 <strong>Repository:</strong><br/>
+        <a href="https://github.com/aniket-analytics/SQL-Projects">
+          github.com/aniket-analytics/SQL-Projects
+        </a>
+      </p>
     </td>
   </tr>
 </table>
