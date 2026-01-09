@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aniket Yadav 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com lines=Data+Analyst+%7C+Business+Analyst+%7C+Product+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI+%7C+GA4;Data+Modeling+%7C+DAX+%7C+Dashboard+Storytelling;Email:+aniket.analytics1210%40gmail.com&center=true&width=700&height=45"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Business+Analyst+%7C+Product+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI+%7C+GA4;Data+Modeling+%7C+DAX+%7C+Dashboard+Storytelling;Email:+aniket.analytics1210%40gmail.com&center=true&width=700&height=45"/>
 </p>
 
 <p align="center">
