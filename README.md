@@ -1,23 +1,17 @@
 <h1 align="center">Hi, I'm Aniket Yadav 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Business+Analyst+%7C+Analytics+%26+Insights;SQL+%7C+Power+BI+%7C+Python+%7C+Excel+%7C+GA4;Data+Modeling+%7C+DAX+%7C+Dashboard+Storytelling;Email:+aniket.analytics1210%40gmail.com&center=true&width=800&height=45"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Business+Intelligence+Analyst+%7C+Product+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI+%7C+GA4;Data+Modeling+%7C+DAX+%7C+Dashboard+Storytelling;Email:+aniket.analytics1210%40gmail.com&center=true&width=700&height=45"/>
 </p>
 
 <p align="center">
-  <a href="mailto:aniket.analytics1210@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aniket-yadav-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1OT_ysO0coNCPPFc0XClV6tR-UW8U1YZe/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=aniket-analytics&style=flat&color=blue"/>
+  <a href="mailto:aniket.analytics1210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aniket-yadav-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1OT_ysO0coNCPPFc0XClV6tR-UW8U1YZe/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=aniket-analytics&style=flat&color=blue" alt="profile views"/>
 </p>
 
-<img src="https://github.com/aniket-analytics/aniket-analytics/blob/main/assets/banner.gif" width="100%"/>
+<img src="https://github.com/aniket-analytics/aniket-analytics/blob/main/assets/banner.gif" alt="Banner" width="100%"/>
 
 ---
 
